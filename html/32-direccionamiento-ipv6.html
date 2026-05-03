@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mooivs3n-54j61gzoi">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>3.2. Direccionamiento IPv6 | UD2-Introducción a las redes locales</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<meta name="description" content="Módulo profesional Redes Locales de Ciclo Formativo de Grado Medio de Sistemas Informáticos y Redes
+Unidad didáctica 2 - Introducción a redes locales.">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/udl-content/udl-content.js"></script><link rel="stylesheet" href="../idevices/udl-content/udl-content.css">
+<script src="../libs/exe_effects/exe_effects.js"> </script>
+<link rel="stylesheet" href="../libs/exe_effects/exe_effects.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mooivs3n-54j61gzoi" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node no-ch">UD2 - Introducción a las redes locales</a>
+</li>
+<li> <a href="../html/guia-didactica.html" class="no-ch">Guía didáctica</a>
+</li>
+<li> <a href="../html/1-introduccion.html" class="no-ch">1. Introducción</a>
+</li>
+<li> <a href="../html/2-redes-locales-familias-de-protocolos-.html" class="no-ch">2. Redes locales –Familias de protocolos-</a>
+</li>
+<li class="current-page-parent"> <a href="../html/3-direccionamiento-ip.html" class="daddy">3. Direccionamiento IP</a>
+<ul class="other-section">
+<li> <a href="../html/31-direccionamiento-ipv4.html" class="no-ch">3.1. Direccionamiento IPv4</a>
+</li>
+<li class="active"> <a href="../html/32-direccionamiento-ipv6.html" class="active no-ch">3.2. Direccionamiento IPv6</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/4-proyecto-cisco-packet-tracer.html" class="no-ch">4. Proyecto Cisco Packet Tracer</a>
+</li>
+<li> <a href="../html/5-prueba-evaluable-teorica.html" class="no-ch">5. Prueba evaluable teórica</a>
+</li>
+<li> <a href="../html/6-prueba-evaluable-practica.html" class="no-ch">6. Prueba evaluable práctica</a>
+</li>
+<li> <a href="../html/7-grabamos-nuestra-practica-opcional---subida-de-n.html" class="no-ch">7. Grabamos nuestra práctica (opcional - subida de nota)</a>
+</li>
+<li> <a href="../html/8-conclusion.html" class="no-ch">8. Conclusión</a>
+</li>
+<li> <a href="../html/creditos.html" class="no-ch">Créditos</a>
+</li>
+</ul>
+</nav><main id="page-mooivs3n-54j61gzoi" class="page"> 
+<header class="main-header"> <p class="page-counter"> <span class="page-counter-label">Página </span><span class="page-counter-content"> <strong class="page-counter-current-page">7</strong><span class="page-counter-sep">/</span><strong class="page-counter-total">13</strong></span></p>
+
+<div class="package-header"><p class="package-title">UD2-Introducción a las redes locales</p></div>
+<div class="page-header"><h1 class="page-title">3.2. Direccionamiento IPv6</h1></div>
+</header><div id="page-content-page-mooivs3n-54j61gzoi" class="page-content">
+<article id="block-mooivs3n-ewjy4im69" class="box">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/udl_exp_tareagrupal.png" alt="">
+</div>
+<h1 class="box-title">1. ¿Qué es IPv6</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-mooivs3n-lqns6lx78" class="idevice_node udl-content" data-idevice-path="../idevices/udl-content/" data-idevice-type="udl-content">
+<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>IPv6 es la evolución de IPv4 y se creó para solucionar el problema de escasez de direcciones IP.</p>
+<p>Tamaño: 128 bits (mucho mayor que IPv4)<br>Permite ≈ 3.4 × 10³⁸ direcciones<br>Mejora seguridad, eficiencia y autoconfiguración</p>
+<h6>&nbsp;<br>2. Formato de una dirección IPv6</h6>
+<p>Se representa en hexadecimal (base 16):</p>
+<p>👉 Ejemplo:</p>
+<p>&nbsp;<br>2001:0db8:85a3:0000:0000:8a2e:0370:7334<br>&nbsp;<br>8 bloques de 16 bits<br>Separados por “:”<br>Cada bloque → 4 dígitos hexadecimales</p>
+<h6>&nbsp;<br>3. Simplificación de direcciones</h6>
+<p>IPv6 permite abreviar:</p>
+<p>✔ Quitar ceros a la izquierda<br>&nbsp;<br>2001:0db8 → 2001:db8<br>&nbsp;<br>✔ Sustituir bloques de ceros por "::"<br>&nbsp;<br>2001:db8:0:0:0:0:2:1 → 2001:db8::2:1<br>&nbsp;<br>⚠ Solo se puede usar una vez "::" por dirección</p>
+<h6>&nbsp;<br>4. Estructura de IPv6</h6>
+<p>Se divide en dos partes principales:</p>
+<p>Prefijo de red (identifica la red)<br>Identificador de interfaz (equipo)</p>
+<p><br>👉 Ejemplo:</p>
+<p>2001:db8::/64<br>&nbsp;<br>/64 → primeros 64 bits = red<br>últimos 64 bits = host</p>
+<h6>&nbsp;<br>5. Tipos de direcciones IPv6</h6>
+<p>🔸 Unicast (uno a uno)<br>Identifica un único dispositivo</p>
+<p>Global (Internet)<br>Link-local (solo red local)<br>🔸 Multicast (uno a varios)<br>Envía datos a un grupo de equipos</p>
+<p>🔸 Anycast<br>Envía datos al equipo más cercano de un grupo</p>
+<p>❌ No existe broadcast en IPv6 (se sustituye por multicast)</p>
+<h6>&nbsp;<br>6. Direcciones importantes</h6>
+<p>✔ Loopback<br>&nbsp;<br>::1<br>&nbsp;<br>→ equivalente a 127.0.0.1 en IPv4</p>
+<p>✔ Link-local<br>&nbsp;<br>fe80::/10<br>&nbsp;<br>→ comunicación dentro de la red local</p>
+<p>✔ Global unicast<br>&nbsp;<br>2000::/3<br>&nbsp;<br>→ direcciones públicas en Internet</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;"><span class="sr-av">Kardia dice </span>¿Quieres sabes más sobre IPv6?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Material de repaso. Aquí os dejo información muy interesante sobre IPv&amp;:</p>
+<ul>
+<li><a href="../content/resources/Redes - Repaso Direccionamiento IPV6.pdf" download="Redes - Repaso Direccionamiento IPV6.pdf" target="_blank" title="Repaso IPv6" rel="noopener">Repaso IPv6</a><br></li>
+<li><iframe width="560" height="314" src="https://www.youtube.com/embed/kd9l1z8aCsY" allowfullscreen="allowfullscreen"></iframe></li>
+</ul>
+</div></div></section></div>
+</div>
+</div>
+</article><article id="block-mooivs3o-zqz0sf93z" class="box">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/udl_rep_conocer.png" alt="">
+</div>
+<h1 class="box-title">2. Ejercicios de IPv6</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-mooivs3o-x3q6vikq0" class="idevice_node udl-content" data-idevice-path="../idevices/udl-content/" data-idevice-type="udl-content">
+<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Ejercicios de IPv6:</p>
+<p>🧠&nbsp;Ejercicio 1: Simplificar una dirección IPv6<br>Dirección:</p>
+<p>&nbsp;2001:0db8:0000:0000:0000:ff00:0042:8329<br>&nbsp;<br>&nbsp;🧠 Ejercicio 2: Expandir una dirección IPv6<br>Dirección:</p>
+<p>2001:db8::1<br></p>
+<p>🧠 Ejercicio 3: Identificar tipo de dirección<br>Dirección:</p>
+<p>&nbsp;fe80::1a2b:3c4d<br>&nbsp;<br>🧠 Ejercicio 4: Identificar red e interfaz<br>Dirección:</p>
+<p>&nbsp;2001:db8:abcd:0012:0000:0000:0000:0001/64<br>&nbsp;</p>
+<div class="exe-fx exe-paginated">
+<h2>Ejercicio 1</h2>
+<p>👉 Paso 1: Quitar ceros a la izquierda<br>&nbsp;<br>2001:db8:0:0:0:ff00:42:8329<br>&nbsp;<br>👉 Paso 2: Sustituir bloques de ceros consecutivos<br>&nbsp;<br>2001:db8::ff00:42:8329<br>&nbsp;<br>✔ Resultado final:<br>➡ 2001:db8::ff00:42:8329</p>
+<h2 style="text-align: left;">Ejercicio 2</h2>
+<p>👉 Paso 1: Contar bloques<br>IPv6 tiene 8 bloques<br>Actualmente hay 2 bloques + "::" + 1 bloque = faltan 5 bloques<br>👉 Paso 2: Añadir ceros<br>&nbsp;<br>2001:0db8:0000:0000:0000:0000:0000:0001</p>
+<h2 style="text-align: left;">Ejercicio 3</h2>
+<p>👉 Solución<br>Empieza por fe80<br>Pertenece al rango fe80::/10<br>✔ Tipo: Link-local<br>➡ Solo válida dentro de la red local</p>
+<h2 style="text-align: left;">Ejercicio 4</h2>
+<p>👉 Paso 1: Simplificar<br>&nbsp;<br>2001:db8:abcd:12::1<br>&nbsp;<br>👉 Paso 2: Separar partes<br>Prefijo /64 → primeros 64 bits (4 bloques)<br>✔ Red:</p>
+<p>&nbsp;<br>2001:db8:abcd:12::<br>&nbsp;<br>✔ Identificador de interfaz:</p>
+<p>&nbsp;<br>::1</p>
+</div></div></div></section></div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/31-direccionamiento-ipv4.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/4-proyecto-cisco-packet-tracer.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
