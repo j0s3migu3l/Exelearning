@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503194013032WJB</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503194013RSMITQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>UD2-Introducción a las redes locales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>José Miguel Cabezuelo Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Módulo profesional Redes Locales de Ciclo Formativo de Grado Medio de Sistemas Informáticos y Redes
+Unidad didáctica 2 - Introducción a redes locales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777799319073</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-8814mproi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>UD2 - Introducción a las redes locales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>UD2 - Introducción a las redes locales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>UD2 - Introducción a las redes locales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-8814mproi</odePageId>
+      <odeBlockId>block-mooivs3n-vg0ze8duk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-8814mproi</odePageId>
+          <odeBlockId>block-mooivs3n-vg0ze8duk</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-ofg7h4din</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/PortadaUD2.jpg" width="1280" height="720" alt=""></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777798998786-zknei4ede</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777798998786-zknei4ede</odePageId>
+      <odeBlockId>block-1777829797190-c12shj3tp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777798998786-zknei4ede</odePageId>
+          <odeBlockId>block-1777829797190-c12shj3tp</odeBlockId>
+          <odeIdeviceId>idevice-1777829797187-27f6fcs9a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Tarea2.1 Comenzamos nuestro proyecto.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829797187-27f6fcs9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Tarea2.1 Comenzamos nuestro proyecto.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Introducción</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+      <odeBlockId>block-mooivs3n-sea3azsw1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+          <odeBlockId>block-mooivs3n-sea3azsw1</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-r333ujhb9</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_movimientoboca_largo.gif" alt="Rétor dice:" title="Rétor dice:" width="159" height="159" style="float: left;">En los inicios de la informática, el objetivo primordial consistía en hacer que la máquina<br>realizara tareas útiles. Cuando los ordenadores y la informática son ya un hecho, surge la<br>necesidad de conectarlos entre sí, con objetivos de:<br>• Distribuir tareas entre equipos.<br>• Compartir información.<br>• Compartir programas.<br>• Compartir todo tipo de dispositivos hardware.<br></p>
+<p>Conceptos fundamentales:</p>
+<ul>
+<li>Host o nodo: equipo capaz de comunicarse en red.</li>
+<li>Sistema aislado: equipo sin conexión a otros (más seguro, pero limitado).</li>
+<li>Sistema en red: equipos conectados que comparten recursos.</li>
+<li>Sistema distribuido: varios equipos colaboran en una tarea sin saber quién hace qué.</li>
+</ul>
+<p>Para conectarse a una red, un equipo necesita una tarjeta de red y protocolos de comunicación.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+      <odeBlockId>block-mooivs3n-y7i88h23x</odeBlockId>
+      <blockName>1. Redes de área local (LAN)</blockName>
+      <iconName>udl_exp_habla</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+          <odeBlockId>block-mooivs3n-y7i88h23x</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-xuhaqcd4i</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><a title="img1.jpg"><img src="{{context_path}}/content/resources/img1.jpg" data-asset-id="7500bd0a-f308-39ca-bb0f-556b9739d354" data-asset-loading="true" alt="Switch" title="Switch" width="289" height="226" style="float: left; margin-right: 20px; margin-left: 20px;"></a></p>
+<p>Una LAN conecta al menos dos equipos en un área limitada (empresa, instituto, casa).</p>
+<p>Ventajas principales</p>
+<ul>
+<li>Ahorro económico (compartir periféricos)</li>
+<li>Acceso común a datos</li>
+<li>Evitar duplicidad de información</li>
+<li>Trabajo distribuido</li>
+<li>Copias de seguridad centralizadas</li>
+</ul>
+
+<p>Características clave (según IEEE)</p>
+<ul>
+<li>Ámbito reducido</li>
+<li>Alta velocidad</li>
+<li>Baja tasa de error</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+      <odeBlockId>block-mooivs3n-8petaogxz</odeBlockId>
+      <blockName>2. Modelos y topologías de red</blockName>
+      <iconName>udl_exp_escribe</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+          <odeBlockId>block-mooivs3n-8petaogxz</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-q7q3qqpg2</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Modelos de red</strong><br>🔹 Cliente-Servidor</p>
+<p>🔹 Peer-to-Peer (P2P)</p>
+<p><br></p>
+<p><strong>Topologías de red</strong><br>Define cómo se conectan los equipos.</p>
+<p>⭐ Estrella</p>
+<p>➖ Bus (Ethernet antiguo)</p>
+<p>🔄 Anillo (Token Ring)</p>
+<p>🔗 Malla<br><br></p>
+<div class="exe-fx exe-carousel">
+<h2>Cliente-Servidor</h2>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Cliente-Servidor.jpg" alt="Cliente-servidor" title="Cliente-servidor" width="260" height="286"></p>
+<p style="text-align: justify;">Un servidor controla recursos, los clientes solicitan acceso y requiere autenticación.</p>
+<p style="text-align: justify;">👉 Si falla el servidor → la red se ve afectada</p>
+<h2>Peer-to-Peer (P2P)</h2>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/p2p.jpg" alt="P2P" title="P2P" width="242" height="277"></p>
+<p style="text-align: justify;">Todos los equipos pueden actuar como cliente y servidor, no hay dependencia central y cada recurso requiere autenticación independiente.</p>
+<h2 style="text-align: justify;">Estrella</h2>
+<p><img src="{{context_path}}/content/resources/Estrella.jpg" alt="Red en Estrella" title="Red en Estrella" width="252" height="318" style="display: block; margin-left: auto; margin-right: auto;">Todos los equipos conectados a un dispositivo central (switch)<br>✔ Fácil gestión<br>❌ Si falla el centro → cae la red<br></p>
+<h2>Bus (Ethernet antiguo)</h2>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/bus.jpg" alt="Red en bus" title="Red en bus" width="282" height="187"></p>
+<p>Un único cable compartido<br>❌ Si se rompe → red caída<br>❌ Bajo rendimiento con muchos equipos.</p>
+<h2>Anillo (Token Ring)</h2>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/anillo.jpg" alt="Red en anillo" title="Red en anillo" width="268" height="241"></p>
+<ul>
+<li>Equipos en círculo</li>
+<li>Usa un “token” para evitar colisiones</li>
+<li>Variante: doble anillo (más fiable)</li>
+</ul>
+<h2>Malla</h2>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/malla.jpg" alt="Red en malla" title="Red en malla" width="259" height="282"></p>
+<p>Todos los equipos conectados entre sí<br>✔ Muy fiable<br>❌ Muy costosa</p>
+</div></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">¿Hemos comprendido los distintos modelos y topologías?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Debatimos:</p>
+<ol>
+<li style="text-align: justify;">¿ Cuál crees que sería la topología que tienes en tu casa ?.</li>
+<li>Y en el Instituto ¿?</li>
+<li>Y en una PYME o una gran empresa ¿?.</li>
+</ol></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+      <odeBlockId>block-mooivs3n-x99zazfok</odeBlockId>
+      <blockName>Tarea 01. 
+Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología y todos los elementos que intervienen en las mismas</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+          <odeBlockId>block-mooivs3n-x99zazfok</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-kjlaglts3</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: left;"><img src="{{context_path}}/content/resources/Red_LAN.jpg" title="Red de área local" alt="Red de área local" width="245" height="188" class="position-left" style="float: left;"></p>
+<p style="text-align: left;">Realiza el siguiente ejercicio. Localiza en internet una imagen de una red de área local, descarga la imagen e incrústala en un documento. Localiza en la misma:</p>
+<ul>
+<li style="text-align: left;">Todos los elementos que intervienen.</li>
+<li style="text-align: left;">Etiquétalos.</li>
+<li style="text-align: left;">Identifica el tipo de topología de la red.</li>
+<li style="text-align: left;">Identifica las ventajas y puntos de mejora de dicha red.<br></li>
+</ul></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;"><span class="sr-av">Lumen dice </span>Inspiración para tus respuestas</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: center;"><iframe width="315" height="560" src="https://www.youtube.com/embed/A-zzq8riEjM?si=uh9W86bS0sMo165S" allowfullscreen="allowfullscreen"></iframe><br>Recuerda que si lo necesitas puedes activar los subtítulos.</p>
+</div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+      <odeBlockId>block-mooivs3n-35a4q5urz</odeBlockId>
+      <blockName>3. Historia de las redes informáticas</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
+          <odeBlockId>block-mooivs3n-35a4q5urz</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-3do6j1h9i</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Las redes locales (LAN) surgieron a finales de la década de 1970 para conectar ordenadores centrales, evolucionando rápidamente gracias al desarrollo de Ethernet en Xerox PARC (1973) y ARCNET (1977). Estas tecnologías permitieron la interconexión de equipos en áreas limitadas como oficinas, consolidándose en los años 80 con el auge de las computadoras personales.<br></p>
+<p>Aquí te presento un artículo detallado por la historia de las redes de área local (LAN):</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Lee el artículo</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://www.tokioschool.com/noticias/historia-evolucion-redes-informaticas/" title="">https://www.tokioschool.com/noticias/historia-evolucion-redes-informaticas/</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777740050274-7vv19v5to</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Redes locales –Familias de protocolos-</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Redes locales –Familias de protocolos-</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Redes locales –Familias de protocolos-</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777740050274-7vv19v5to</odePageId>
+      <odeBlockId>block-1777740050274-8rrhprjx8</odeBlockId>
+      <blockName>2.1 Protocolo (de comunicaciones).</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777740050274-7vv19v5to</odePageId>
+          <odeBlockId>block-1777740050274-8rrhprjx8</odeBlockId>
+          <odeIdeviceId>idevice-1777740050274-edi59wqjr</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/img1.jpg" alt="Switch" title="Switch" width="161" height="126" style="float: left;"></p>
+<p>🔹 Protocolo<br>Conjunto de reglas para comunicarse en red.</p>
+<p>👉 Si dos equipos usan protocolos distintos → no se entienden</p>
+
+<p>🔹 Capas (modelo por niveles)<br>Se divide la comunicación en partes para simplificar:</p>
+<ul>
+<li>Facilita mantenimiento</li>
+<li>Permite modificar partes sin afectar al resto</li>
+</ul>
+<p><br>🔹 Interfaz<br>Reglas de comunicación entre capas.</p>
+<p>🔹 Arquitectura de red<br>Conjunto de capas + protocolos.</p>
+<p>👉 Modelo de referencia: OSI (ISO)</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777740050274-7vv19v5to</odePageId>
+      <odeBlockId>block-1777740050274-s76mn7oi3</odeBlockId>
+      <blockName>2.2 Modelo OSI (7 capas)</blockName>
+      <iconName>udl_exp_habla</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777740050274-7vv19v5to</odePageId>
+          <odeBlockId>block-1777740050274-s76mn7oi3</odeBlockId>
+          <odeIdeviceId>idevice-1777740050274-4d2vcs1m7</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/osi.jpg" alt="Pila OSI" title="Pila OSI" width="188" height="307" style="float: left; margin-right: 20px; margin-left: 20px;"></p>
+<p>🔻 Capas orientadas a red</p>
+<ul>
+<li>Física: transmite bits (cables, señales)</li>
+<li>Enlace: controla errores (tramas, CRC)</li>
+<li>Red: direccionamiento y rutas</li>
+</ul>
+<p><br>🔺 Capas orientadas a aplicación</p>
+<ul>
+<li>Transporte: comunicación entre aplicaciones (puertos)</li>
+<li>Sesión: mantiene la comunicación</li>
+<li>Presentación: formato, cifrado, compresión</li>
+<li>Aplicación: interacción con el usuario (HTTP, FTP…)</li>
+</ul>
+<p><br>⚙ Conceptos clave</p>
+<ul>
+<li>Encapsulación: añadir cabeceras al bajar por capas</li>
+<li>Desencapsulación: eliminarlas al subir</li>
+</ul>
+<p><br>🔌 Tipos de servicio</p>
+<ul>
+<li>Orientado a conexión (fiable)</li>
+<li>No orientado (rápido, menos fiable)</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777740050274-7vv19v5to</odePageId>
+      <odeBlockId>block-1777743674827-tej2yrn94</odeBlockId>
+      <blockName>2.3 Familia de protocolos TCP/IP</blockName>
+      <iconName>udl_exp_habla</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777740050274-7vv19v5to</odePageId>
+          <odeBlockId>block-1777743674827-tej2yrn94</odeBlockId>
+          <odeIdeviceId>idevice-1777743674828-9is2bips1</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>📜 Historia</p>
+<ul>
+<li>Creada por DARPA (años 70)</li>
+<li>Base de Internet</li>
+<li>TCP/IP v4 sigue en uso<br></li>
+</ul>
+<p>🧩 Capas TCP/IP</p>
+<ul>
+<li>Acceso a red</li>
+<li>Internet (IP)</li>
+<li>Transporte (TCP/UDP)</li>
+<li>Aplicación</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/pilaTCPIP.jpg" title="Pila TCP/IP" width="452" height="327" alt="Pila TCP/IP"></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777740050274-7vv19v5to</odePageId>
+      <odeBlockId>block-1777743761290-pc5df4sft</odeBlockId>
+      <blockName>2.4 Protocolos principales</blockName>
+      <iconName>udl_exp_habla</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777740050274-7vv19v5to</odePageId>
+          <odeBlockId>block-1777743761290-pc5df4sft</odeBlockId>
+          <odeIdeviceId>idevice-1777743761290-z6xx18x39</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>🔹 Nivel de red</p>
+<ul>
+<li>IP: envía paquetes (no fiable)</li>
+<li>ICMP: mensajes de error</li>
+<li>ARP: IP → MAC</li>
+<li>RARP: MAC → IP</li>
+</ul>
+<p>👉 Dirección MAC: identificador único del hardware</p>
+<p>&nbsp;<br>🔹 Nivel de transporte<br>✔ TCP (fiable)</p>
+<ul>
+<li>Establece conexión</li>
+<li>Garantiza entrega y orden</li>
+<li>Controla flujo</li>
+</ul>
+<p><br>⚡ UDP (rápido)</p>
+<ul>
+<li>No garantiza entrega</li>
+<li>No ordena ni reenvía</li>
+<li>Usado en streaming</li>
+</ul>
+<p>&nbsp;<br>🔹 Nivel de aplicación</p>
+<p>Protocolos más usados:</p>
+<ul>
+<li>HTTP → web</li>
+<li>FTP → archivos</li>
+<li>SMTP / POP → correo</li>
+<li>DNS → nombres de dominio</li>
+<li>SNMP → gestión de red</li>
+<li>TELNET → acceso remoto</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777740050274-7vv19v5to</odePageId>
+      <odeBlockId>block-1777740050274-o9c89v3vd</odeBlockId>
+      <blockName>3. Auto-evaluación</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777740050274-7vv19v5to</odePageId>
+          <odeBlockId>block-1777740050274-o9c89v3vd</odeBlockId>
+          <odeIdeviceId>idevice-1777740050274-eqtq88ztm</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1777740050274-eqtq88ztm" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>El siguiente ejercicio está <strong>relacionado con los contenidos vistos</strong> y consiste en detectar <strong>qué afirmaciones son correctas y cuáles no.</strong></p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1777740050274-eqtq88ztm" id="tofPMainContainer-idevice-1777740050274-eqtq88ztm">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1777740050274-eqtq88ztm">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Time per question:</span></strong>
+                        <p id="tofPPTime-idevice-1777740050274-eqtq88ztm" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1777740050274-eqtq88ztm">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1777740050274-eqtq88ztm"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1777740050274-eqtq88ztm">
+                    <button  id="tofPStartGame-idevice-1777740050274-eqtq88ztm" type="button" class="btn btn-primary">Click here to start</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1777740050274-eqtq88ztm">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1777740050274-eqtq88ztm">
+                    <button id="tofPCheckTest-idevice-1777740050274-eqtq88ztm" type="button" class="btn btn-primary">Check</button>
+                    <button id="tofRebootTest-idevice-1777740050274-eqtq88ztm" type="button" class="btn btn-primary TOFP-EHidden">Try again!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1777740050274-eqtq88ztm" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777740050274-eqtq88ztm","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>El siguiente ejercicio está <strong>relacionado con los contenidos vistos</strong> y consiste en detectar <strong>qué afirmaciones son correctas y cuáles no.</strong></p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Click here to start","msgTime":"Time per question","msgNoImage":"No picture question","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"True or false","msgFeedback":"Feedback","msgSuggestion":"Suggestion","msgSolution":"Solution","msgQuestion":"Question","msgTrue":"True","msgFalse":"False","msgOk":"Correct","msgKO":"Incorrect","msgShow":"Show","msgHide":"Hide","msgCheck":"Check","msgReboot":"Try again!","msgScore":"Score","msgWeight":"Weight","msgNext":"Next","msgPrevious":"Previous"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>1. Un sistema aislado puede compartir recursos con otros equipos..</p>","feedback":"<p>Para poder compartir recursos con otros equipos debemos estar conectados (en red).</p>","suggestion":"","solution":0},{"question":"<p>2. Un host es cualquier dispositivo capaz de comunicarse en red.</p>","feedback":"<p>Correcto.</p>","suggestion":"","solution":1},{"question":"<p>3. Compartir impresoras es una ventaja de las redes LAN..</p>","feedback":"<p>Correcto.</p>","suggestion":"","solution":1},{"question":"<p>4. Una LAN puede estar formada por un único equipo.</p>","feedback":"<p>No es correcto, una LAN debe estar formada por varios hosts.</p>","suggestion":"","solution":0}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1777740050274-eqtq88ztm"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-uxfpv5r4g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Direccionamiento IP</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Direccionamiento IP</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Direccionamiento IP</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-uxfpv5r4g</odePageId>
+      <odeBlockId>block-mooivs3n-3oujytxax</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-uxfpv5r4g</odePageId>
+          <odeBlockId>block-mooivs3n-3oujytxax</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-lj9jc8n6c</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_sin_bocadillo.gif" alt="Rétor dice:" title="Rétor dice:" style="float: left;" width="125" height="125"></p>
+<p><strong>1. ¿Qué es una dirección IP?</strong><br>Una dirección IP es un número único que identifica a cada equipo dentro de una red.</p>
+<p>Formato: 32 bits (IPv4)<br>Se representa en 4 números decimales (0–255) separados por puntos</p>
+<p><br>👉 Ejemplo: 192.168.1.1<br>&nbsp;<br><strong>2. Estructura de una IP</strong><br>Una dirección IP se divide en dos partes:</p>
+<p>Parte de red → identifica la red<br>Parte de host → identifica el equipo dentro de esa red<br>👉 Esta división depende de la máscara de red</p>
+<p>&nbsp;<br><strong>3. Clases de direcciones IP</strong><br>🔸 Clase A<br>Redes muy grandes<br>Primer bit = 0<br>Rango: 1 – 126<br>Muchos hosts por red<br>🔸 Clase B<br>Redes medianas<br>Primeros bits = 10<br>Rango: 128 – 191<br>🔸 Clase C<br>Redes pequeñas<br>Primeros bits = 110<br>Rango: 192 – 223<br>🔸 Clase D<br>Multidifusión (multicast)<br>🔸 Clase E<br>Uso experimental<br>&nbsp;<br><strong>4. Direcciones IP privadas</strong><br>Se usan en redes internas (no en Internet):</p>
+<p>10.0.0.0 – 10.255.255.255<br>172.16.0.0 – 172.31.255.255<br>192.168.0.0 – 192.168.255.255<br>&nbsp;<br><strong>5. Máscara de red</strong><br>La máscara de red indica qué parte de la IP es red y cuál es host.</p>
+<p>👉 Ejemplo:</p>
+<p>IP: 192.168.1.10<br>Máscara: 255.255.255.0<br>✔ Los bits en 1 → red<br>✔ Los bits en 0 → host</p>
+<p>&nbsp;<br><strong>6. Notación CIDR</strong><br>Forma abreviada de escribir IP + máscara:</p>
+<p>👉 Ejemplo:</p>
+<p>192.168.1.10/24 = máscara 255.255.255.0<br>✔ El número indica los bits en 1 de la máscara</p>
+<p>Pasamos a:</p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="exe-node:page-mooivs3n-8814mproi8" title="Accede al apartado 3.1. Direccionamiento IPv4">3.1. Direccionamiento IPv4</a></p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="32-direccionamiento-ipv6.html" title="Accede al apartado 3.2. Direccionamiento IPv6">3.2. Direccionamiento IPv6</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-uxfpv5r4g</odePageId>
+      <odeBlockId>block-mooivs3n-8ei6f34jt</odeBlockId>
+      <blockName>1. Emplecemos</blockName>
+      <iconName>udl_rep_reproduccion</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-uxfpv5r4g</odePageId>
+          <odeBlockId>block-mooivs3n-8ei6f34jt</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-fqmx0398t</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Nos introducimos de lleno en el aprendizaje del direccionamiento IP (IPv4 e IPv6)</p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/driYnbf7dTY?list=PLFvsG84J7zXSZRSbzJI44EHkws-_mJuot&amp;index=1" allowfullscreen="allowfullscreen"></iframe><br>Recuerda que si lo necesitas puedes activar los subtítulos.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+  <odeParentPageId>page-mooivs3n-uxfpv5r4g</odeParentPageId>
+  <pageName>3.1. Direccionamiento IPv4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Direccionamiento IPv4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1. Direccionamiento IPv4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+      <odeBlockId>block-mooivs3n-ruzx7yu6u</odeBlockId>
+      <blockName>1. Características</blockName>
+      <iconName>udl_exp_mediacion</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+          <odeBlockId>block-mooivs3n-ruzx7yu6u</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-acjuz9ben</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><ul>
+<li>32 bits (4 números entre 0–255)</li>
+<li>Ejemplo: 192.168.1.1</li>
+</ul>
+<p><br>&nbsp;🧮 Clases de IP</p>
+<ul>
+<li>Clase A → redes grandes</li>
+<li>Clase B → redes medianas</li>
+<li>Clase C → redes pequeñas</li>
+<li>Clase D → multicast</li>
+<li>Clase E → experimental</li>
+</ul>
+<p><br>&nbsp;🔒 Direcciones privadas</p>
+<ul>
+<li>10.0.0.0 – 10.255.255.255</li>
+<li>172.16.0.0 – 172.31.255.255</li>
+<li>192.168.0.0 – 192.168.255.255</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+      <odeBlockId>block-mooivs3n-mk2p3s7c0</odeBlockId>
+      <blockName>2. Máscara de red</blockName>
+      <iconName>udl_rep_pasos</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+          <odeBlockId>block-mooivs3n-mk2p3s7c0</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-nfzzz5qou</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Sirve para distinguir:</p>
+<ul>
+<li>Parte de red</li>
+<li>Parte de host</li>
+</ul>
+<p><br>Ejemplo:</p>
+<p>IP: 192.168.1.10<br>Máscara: 255.255.255.0<br>👉 Permite saber qué equipos están en la misma red</p>
+
+<h6><strong>📌 Notación CIDR</strong></h6>
+<p>Ejemplo:</p>
+<p>192.168.1.10/24 → máscara 255.255.255.0</p>
+<h6>&nbsp;<br><strong>🧠 Cálculo de red (AND lógico)</strong></h6>
+<p>Para comprobar si dos equipos están en la misma red:</p>
+<ul>
+<li>Se hace AND entre IP y máscara</li>
+<li>Si el resultado es igual → misma red</li>
+</ul>
+<h6><br>&nbsp;<br>📢 Direcciones especiales</h6>
+<p>Dirección de red → host = 0<br>Broadcast → host = 1 (todos)<br>👉 No se pueden asignar a equipos</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+      <odeBlockId>block-mooivs3n-125d1009r</odeBlockId>
+      <blockName>3. Ejercicios de IPv4</blockName>
+      <iconName>udl_rep_lee</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-h9dwgxo48</odePageId>
+          <odeBlockId>block-mooivs3n-125d1009r</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-88w69fnmt</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Ejercicios a realizar:</p>
+<p>🧠&nbsp;<strong>Ejercicio 1</strong>: Identificar red, broadcast y hosts<br>Dada la IP: 192.168.1.25/24</p>
+<p>192.168.1.25/24</p>
+<p>&nbsp;<br>🧠 <strong>Ejercicio 2</strong>: ¿Están en la misma red?<br>IPs:</p>
+<ul>
+<li>192.168.1.10/24</li>
+<li>192.168.1.200/24<br></li>
+</ul>
+<p>&nbsp;<br>🧠 <strong>Ejercicio 3: </strong>Calcular red con máscara distinta<br>IP: 192.168.1.130/25</p>
+<p>&nbsp;<br>🧠 <strong>Ejercicio 4:</strong> Número de hosts en una red<br>Red: 10.0.0.0/16</p>
+
+<div class="exe-fx exe-paginated">
+<h2 style="text-align: left;">Ejercicio 1</h2>
+<p style="text-align: left;">Dada la IP: 192.168.1.25/24</p>
+<p style="text-align: left;">👉 Paso 1: Máscara<br>/24 → 255.255.255.0</p>
+<p style="text-align: left;">👉 Paso 2: Dirección de red<br>➡ 192.168.1.0</p>
+<p style="text-align: left;">👉 Paso 3: Broadcast<br>➡ 192.168.1.255</p>
+<p style="text-align: left;">👉 Paso 4: Hosts válidos<br>➡ Desde 192.168.1.1 hasta 192.168.1.254</p>
+<p style="text-align: left;">👉 Paso 5: Número de hosts<br>➡ 2^8−2=254</p>
+<h2 style="text-align: left;">Ejercicio 2</h2>
+<p>👉 Solución<br>Ambas tienen:</p>
+<p>Red → 192.168.1.0<br>✔ Sí, están en la misma red</p>
+<h2 style="text-align: left;">Ejercicio 3</h2>
+<p>192.168.1.130/25</p>
+<p>👉 Paso 1: Máscara<br>/25 → 255.255.255.128</p>
+<p>👉 Paso 2: Subredes posibles<br>192.168.1.0 – 127<br>192.168.1.128 – 255</p>
+<p>👉 Paso 3: Identificar red<br>130 pertenece al segundo rango:</p>
+<p>➡ Red: 192.168.1.128<br>➡ Broadcast: 192.168.1.255</p>
+<p>👉 Hosts<br>➡ Desde 192.168.1.129 hasta 192.168.1.254</p>
+</div></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;"><span class="sr-av">Kardia dice </span>¿Quieres conocer la Guía del usuario?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Siempre es interesante buscar más información sobre un tema que estemos estudiando.</p>
+<p>Os recomiendo que repaséis el ppt que hemos trabajado en clase <a href="{{context_path}}/content/resources/Direccionamiento IP - Subnetting - VLSM y CIDR.pdf" target="_blank" title="Direccionamiento IPv4" rel="noopener">Direccionamiento IPv4</a>.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-54j61gzoi</odePageId>
+  <odeParentPageId>page-mooivs3n-uxfpv5r4g</odeParentPageId>
+  <pageName>3.2. Direccionamiento IPv6</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2. Direccionamiento IPv6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.2. Direccionamiento IPv6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-54j61gzoi</odePageId>
+      <odeBlockId>block-mooivs3n-ewjy4im69</odeBlockId>
+      <blockName>1. ¿Qué es IPv6</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-54j61gzoi</odePageId>
+          <odeBlockId>block-mooivs3n-ewjy4im69</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3n-lqns6lx78</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>IPv6 es la evolución de IPv4 y se creó para solucionar el problema de escasez de direcciones IP.</p>
+<p>Tamaño: 128 bits (mucho mayor que IPv4)<br>Permite ≈ 3.4 × 10³⁸ direcciones<br>Mejora seguridad, eficiencia y autoconfiguración</p>
+<h6>&nbsp;<br>2. Formato de una dirección IPv6</h6>
+<p>Se representa en hexadecimal (base 16):</p>
+<p>👉 Ejemplo:</p>
+<p>&nbsp;<br>2001:0db8:85a3:0000:0000:8a2e:0370:7334<br>&nbsp;<br>8 bloques de 16 bits<br>Separados por “:”<br>Cada bloque → 4 dígitos hexadecimales</p>
+<h6>&nbsp;<br>3. Simplificación de direcciones</h6>
+<p>IPv6 permite abreviar:</p>
+<p>✔ Quitar ceros a la izquierda<br>&nbsp;<br>2001:0db8 → 2001:db8<br>&nbsp;<br>✔ Sustituir bloques de ceros por "::"<br>&nbsp;<br>2001:db8:0:0:0:0:2:1 → 2001:db8::2:1<br>&nbsp;<br>⚠ Solo se puede usar una vez "::" por dirección</p>
+<h6>&nbsp;<br>4. Estructura de IPv6</h6>
+<p>Se divide en dos partes principales:</p>
+<p>Prefijo de red (identifica la red)<br>Identificador de interfaz (equipo)</p>
+<p><br>👉 Ejemplo:</p>
+<p>2001:db8::/64<br>&nbsp;<br>/64 → primeros 64 bits = red<br>últimos 64 bits = host</p>
+<h6>&nbsp;<br>5. Tipos de direcciones IPv6</h6>
+<p>🔸 Unicast (uno a uno)<br>Identifica un único dispositivo</p>
+<p>Global (Internet)<br>Link-local (solo red local)<br>🔸 Multicast (uno a varios)<br>Envía datos a un grupo de equipos</p>
+<p>🔸 Anycast<br>Envía datos al equipo más cercano de un grupo</p>
+<p>❌ No existe broadcast en IPv6 (se sustituye por multicast)</p>
+<h6>&nbsp;<br>6. Direcciones importantes</h6>
+<p>✔ Loopback<br>&nbsp;<br>::1<br>&nbsp;<br>→ equivalente a 127.0.0.1 en IPv4</p>
+<p>✔ Link-local<br>&nbsp;<br>fe80::/10<br>&nbsp;<br>→ comunicación dentro de la red local</p>
+<p>✔ Global unicast<br>&nbsp;<br>2000::/3<br>&nbsp;<br>→ direcciones públicas en Internet</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;"><span class="sr-av">Kardia dice </span>¿Quieres sabes más sobre IPv6?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Material de repaso. Aquí os dejo información muy interesante sobre IPv&amp;:</p>
+<ul>
+<li><a href="{{context_path}}/content/resources/Redes - Repaso Direccionamiento IPV6.pdf" download="Redes - Repaso Direccionamiento IPV6.pdf" target="_blank" title="Repaso IPv6" rel="noopener">Repaso IPv6</a><br></li>
+<li><iframe width="560" height="314" src="https://www.youtube.com/embed/kd9l1z8aCsY" allowfullscreen="allowfullscreen"></iframe></li>
+</ul>
+</div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-54j61gzoi</odePageId>
+      <odeBlockId>block-mooivs3o-zqz0sf93z</odeBlockId>
+      <blockName>2. Ejercicios de IPv6</blockName>
+      <iconName>udl_rep_conocer</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-54j61gzoi</odePageId>
+          <odeBlockId>block-mooivs3o-zqz0sf93z</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3o-x3q6vikq0</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Ejercicios de IPv6:</p>
+<p>🧠&nbsp;Ejercicio 1: Simplificar una dirección IPv6<br>Dirección:</p>
+<p>&nbsp;2001:0db8:0000:0000:0000:ff00:0042:8329<br>&nbsp;<br>&nbsp;🧠 Ejercicio 2: Expandir una dirección IPv6<br>Dirección:</p>
+<p>2001:db8::1<br></p>
+<p>🧠 Ejercicio 3: Identificar tipo de dirección<br>Dirección:</p>
+<p>&nbsp;fe80::1a2b:3c4d<br>&nbsp;<br>🧠 Ejercicio 4: Identificar red e interfaz<br>Dirección:</p>
+<p>&nbsp;2001:db8:abcd:0012:0000:0000:0000:0001/64<br>&nbsp;</p>
+<div class="exe-fx exe-paginated">
+<h2>Ejercicio 1</h2>
+<p>👉 Paso 1: Quitar ceros a la izquierda<br>&nbsp;<br>2001:db8:0:0:0:ff00:42:8329<br>&nbsp;<br>👉 Paso 2: Sustituir bloques de ceros consecutivos<br>&nbsp;<br>2001:db8::ff00:42:8329<br>&nbsp;<br>✔ Resultado final:<br>➡ 2001:db8::ff00:42:8329</p>
+<h2 style="text-align: left;">Ejercicio 2</h2>
+<p>👉 Paso 1: Contar bloques<br>IPv6 tiene 8 bloques<br>Actualmente hay 2 bloques + "::" + 1 bloque = faltan 5 bloques<br>👉 Paso 2: Añadir ceros<br>&nbsp;<br>2001:0db8:0000:0000:0000:0000:0000:0001</p>
+<h2 style="text-align: left;">Ejercicio 3</h2>
+<p>👉 Solución<br>Empieza por fe80<br>Pertenece al rango fe80::/10<br>✔ Tipo: Link-local<br>➡ Solo válida dentro de la red local</p>
+<h2 style="text-align: left;">Ejercicio 4</h2>
+<p>👉 Paso 1: Simplificar<br>&nbsp;<br>2001:db8:abcd:12::1<br>&nbsp;<br>👉 Paso 2: Separar partes<br>Prefijo /64 → primeros 64 bits (4 bloques)<br>✔ Red:</p>
+<p>&nbsp;<br>2001:db8:abcd:12::<br>&nbsp;<br>✔ Identificador de interfaz:</p>
+<p>&nbsp;<br>::1</p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777805960447-gv5nki5aa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Proyecto Cisco Packet Tracer</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Proyecto Cisco Packet Tracer</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Proyecto Cisco Packet Tracer</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777805960447-gv5nki5aa</odePageId>
+      <odeBlockId>block-1777805960447-sp2ibwglo</odeBlockId>
+      <blockName>1. ¿Qué es Cisco Packet Tracer?</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777805960447-gv5nki5aa</odePageId>
+          <odeBlockId>block-1777805960447-sp2ibwglo</odeBlockId>
+          <odeIdeviceId>idevice-1777805960447-ooo18457c</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Cisco Packet Tracer es un programa de simulación de redes desarrollado por Cisco Systems que permite diseñar, configurar y probar redes informáticas sin necesidad de hardware real.</p>
+<h6>&nbsp;<br><strong>🌐 ¿Para qué sirve?</strong></h6>
+<p>Se utiliza principalmente en formación (como en FP o cursos de redes) para:</p>
+<ul>
+<li>🖧 Diseñar redes (LAN, WAN, etc.)</li>
+<li>🔌 Conectar dispositivos (routers, switches, PCs…)</li>
+<li>⚙ Configurar equipos (IP, protocolos, VLANs…)</li>
+<li>🔍 Simular el funcionamiento de la red en tiempo real</li>
+<li>🧪 Practicar sin riesgo de romper una red real</li>
+</ul>
+<h6>&nbsp;<br>🧱 ¿Qué puedes hacer con él?</h6>
+<p>Con Packet Tracer puedes:</p>
+<ul>
+<li>Crear topologías de red (estrella, malla, etc.)</li>
+<li>Configurar routers (IP, rutas, DHCP…)</li>
+<li>Simular protocolos (TCP/IP, RIP, OSPF…)</li>
+<li>Analizar paquetes paso a paso (modo simulación)</li>
+<li>Probar conexiones con comandos como ping</li>
+</ul>
+<h6>&nbsp;<br>🎓 ¿Por qué es importante?</h6>
+<p>Es una herramienta clave porque:</p>
+<ul>
+<li>Permite aprender redes de forma práctica</li>
+<li>No necesitas hardware real (ahorra dinero)</li>
+<li>Es la base para certificaciones como CCNA</li>
+<li>Refuerza conceptos como:Direccionamiento IP</li>
+<li>Subredes</li>
+<li>Configuración de routers y switches</li>
+</ul></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-2"><h2 style="display:none;"><span class="sr-av">Kardia dice </span>¿Quieres saber más sobre Cisco Packet Tracer?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Material de repaso. Aquí os dejo información muy interesante sobre Cisco Packet Tracer:</p>
+<ul>
+<li><a href="{{context_path}}/content/resources/Tutorial Cisco Packet Tracer.pdf" download="Redes - Repaso Direccionamiento IPV6.pdf" target="_blank" title="Guía rápida sobre Cisco Packet Tracer" rel="noopener">Guía rápida sobre Cisco Packet Tracer</a><br></li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777805960447-gv5nki5aa</odePageId>
+      <odeBlockId>block-1777805960447-vzfmvty9z</odeBlockId>
+      <blockName>2. Proyecto red local mediante Cisco Packet Tracer</blockName>
+      <iconName>udl_rep_conocer</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777805960447-gv5nki5aa</odePageId>
+          <odeBlockId>block-1777805960447-vzfmvty9z</odeBlockId>
+          <odeIdeviceId>idevice-1777805960447-cd4cv0qdb</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Para realizar nuestro proyecto vamos a utilizar el programa Cisco Packet Tracer. Alcance solicitado:</p>
+<p><strong>Proyecto de Instalación de una red LAN</strong></p>
+<p>Trabajas para la empresa RedesVolando S.A. y ha salido un concurso para la instalación de una red en un complejo educativo.</p>
+<p><strong>Requisitos generales para la instalación y medidas.</strong></p>
+<p>En la entrada se encuentra el router. La distancia desde el router hasta la primera estancia disponible son 20 metros.</p>
+<p>La distancia de una planta a otra son 3 metros (es decir del suelo al techo van tres metros).</p>
+<p>Requisitos específicos:</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;La primera aula disponible en la planta baja es la Biblioteca.</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;A continuación de la biblioteca se encuentra el Aula 1.</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;En la primera planta se encuentra el Aula dos, ubicada a mitad de camino entre la entrada y la biblioteca.</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;En la tercera planta se encuentra el Aula Gaming, justo encima de la biblioteca.</p>
+<p>Dimensiones de las estancias</p>
+<p>Estancia: A y B<br>Aula 1 (opción 1): 25 x 15<br>Aula 2 (opción 2): 40 x 30<br>Biblioteca (opción 3): 80 x 60<br>Gaming (opción 4): 50 x 50<br>&nbsp;</p>
+<p>Equipamiento mínimo:</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;Aulas 1 y 2: &nbsp;cada mesa del alumnado tendrá siete puestos.</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;Gaming:</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*&nbsp; La mesa con ordenadores del aula gaming dispondrá de cuatro equipos.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*&nbsp; &nbsp;En las mesas de los usuarios (gaming) deben caber al menos ocho puestos.</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp;Biblioteca:</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; *&nbsp; &nbsp;Mesas con ordenadores tendrán al menos diez puestos cada una.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; *&nbsp; &nbsp;En las mesas de usuarios caben grupos de ocho.</p>
+<p>Tarea:</p>
+<p>1. &nbsp; &nbsp; &nbsp;Elementos de interconexión a utilizar:</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a. &nbsp; &nbsp; &nbsp;1 Router para cada edificio, rack, 1 switch para cada aula, puntos de acceso, PCs.</p>
+<p>2. &nbsp; &nbsp; &nbsp;REPRESENTAR EL MAPA FÍSICO DE UNA RED LOCAL mediante Cisco Packet Tracer a partir del trabajo que realizaste en la unidad anterior. (10 puntos).</p>
+<p>Datos adicionales a tener en cuenta:</p>
+<p>1. &nbsp; &nbsp; &nbsp;El Aula1, Aula2 y Aula de Gaming se encuentran en el edificio 1 y deberán tener las redes: 192.168.100.0 / 192.168.110.0 y 192.168.120.0</p>
+<p>2. &nbsp; &nbsp; &nbsp;La Biblioteca se encuentra en el edificio 2 y la comunicación entre ambos routers se realizará a través de una conexión gigabit (red punto a punto 172.31.X.0), y cuya red en la biblioteca será 192.16.X.0.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a. &nbsp; &nbsp; &nbsp;NOTA IMPORTANTE esta X debéis sustituirla por el número de vuestro PC en la clase.</p>
+<p>3. &nbsp; &nbsp; &nbsp;Únicamente va a ser necesario ubicar en cada mesa de usuario, ordenadores,… 1 único equipo (no completéis con todos los equipos que se indican para cada aula/mesa).</p>
+<div class="exe-fx exe-paginated">
+<h2>Fase de diseño</h2>
+<p>En esta fase diseñarás la topología de red local propuesta.</p>
+<ul>
+<li>Deberás identificar los dispositivos necesarios: switches, routers, PCs y cables.</li>
+<li>Planificarás el direccionamiento IP siguiendo el esquema de subred asignado.</li>
+<li>Documentarás la configuración de cada dispositivo y crearás el diagrama de red antes de implementarlo en Packet Tracer.</li>
+</ul>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/IE--DWzfnwU" allowfullscreen="allowfullscreen"></iframe> <br>Recuerda que si lo necesitas puedes activar los subtítulos del video y elegir el idioma que prefieras.<br></p>
+<h2 style="text-align: left;">Diseño de una red local</h2>
+<p>Creamos una red local simple mediante Cisco Packet Tracer.</p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/FA0D6bQjPg4?t=39s" allowfullscreen="allowfullscreen"></iframe><br>Recuerda que si lo necesitas puedes activar los subtítulos del video y elegir el idioma que prefieras.</p>
+<h2 style="text-align: left;">Fase de simulación</h2>
+<p>Implementarás tu diseño en Cisco Packet Tracer configurando cada dispositivo. Realizarás pruebas de conectividad mediante<br>comandos ping y traceroute.</p>
+<p>Verificarás el funcionamiento correcto de la comunicación entre todos los equipos de la red.</p>
+<p>Finalmente, exportarás el proyecto y elaborarás un informe técnico con capturas de pantalla.</p>
+</div>
+<div id="t98727619-d302-fb1c-d9bf-7d6ec5dc58fb" class="exe-tooltip-text"></div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-m61nolapl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Prueba evaluable teórica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Prueba evaluable teórica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Prueba evaluable teórica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-m61nolapl</odePageId>
+      <odeBlockId>block-mooivs3o-wugkqcnd8</odeBlockId>
+      <blockName>1. Kahoot (refuerzo y consolidación de contenidos)</blockName>
+      <iconName>udl_rep_reproduccion</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-m61nolapl</odePageId>
+          <odeBlockId>block-mooivs3o-wugkqcnd8</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3o-thvpa7nfr</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Realizamos el siguiente kahoot para reforzar el aprendizaje del alumnado. Este cuestionario gamificado te ayudará a repasar conceptos clave sobre redes locales de forma dinámica y divertida, preparándote para las evaluaciones posteriores.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Kahoot_cuestionarios.jpg" title="Kahoot - cuestionario UD2" width="714" height="310" alt="Kahoot - cuestionario UD2"><br><a href="https://create.kahoot.it/my-library/kahoots/all" title="">Acceso</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-m61nolapl</odePageId>
+      <odeBlockId>block-mooivs3o-cp7mr0jds</odeBlockId>
+      <blockName>2. Cuestionario (prueba evaluable teórica)</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-m61nolapl</odePageId>
+          <odeBlockId>block-mooivs3o-cp7mr0jds</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3o-r2a4ol1dm</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-mooivs3o-r2a4ol1dm" data-evaluationb="false" data-evaluationid=""></div>
+            <div id="frmMainContainer-idevice-mooivs3o-r2a4ol1dm" class="form-IDevice" data-id="idevice-mooivs3o-r2a4ol1dm">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Realizarás un examen online a través de la plataforma Moodle que evaluará tu comprensión de los conceptos fundamentales de redes locales. El test incluirá preguntas sobre topologías de red, protocolos TCP/IP, direccionamiento IP, dispositivos de red y configuración básica.<br /></p>
+<p>Tendrás un tiempo limitado para completarlo y podrás consultar tus resultados inmediatamente al finalizar.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:flex;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-mooivs3o-r2a4ol1dm">25:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-mooivs3o-r2a4ol1dm" style="display:flex;">
+                      <button  id="frmStartGame-idevice-mooivs3o-r2a4ol1dm" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-mooivs3o-r2a4ol1dm" style="display:none;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-mooivs3o-r2a4ol1dm" > </div>
+                        <div id="frmCover-idevice-mooivs3o-r2a4ol1dm" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-mooivs3o-r2a4ol1dm" class="form-results-container inline">
+                        <div id="form-score-idevice-mooivs3o-r2a4ol1dm" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-mooivs3o-r2a4ol1dm" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-mooivs3o-r2a4ol1dm" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-mooivs3o-r2a4ol1dm" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-mooivs3o-r2a4ol1dm" type="button" value="Reiniciar"
+                            data-id="idevice-mooivs3o-r2a4ol1dm" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-mooivs3o-r2a4ol1dm" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-mooivs3o-r2a4ol1dm" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-mooivs3o-r2a4ol1dm" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mooivs3o-r2a4ol1dm","evaluation":false,"evaluationID":"","repeatActivity":true,"isScorm":1,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-mooivs3o-r2a4ol1dm","questionsRandom":false,"percentageQuestions":"100","time":"25","eXeFormInstructions":"<p>Realizarás un examen online a través de la plataforma Moodle que evaluará tu comprensión de los conceptos fundamentales de redes locales. El test incluirá preguntas sobre topologías de red, protocolos TCP/IP, direccionamiento IP, dispositivos de red y configuración básica.<br /></p>\n<p>Tendrás un tiempo limitado para completarlo y podrás consultar tus resultados inmediatamente al finalizar.</p>","questionsData":[{"id":"1777825210501-W3EIW","activityType":"selection","baseText":"<p>¿Qué es un host o nodo en una red?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Un equipo que realiza cálculos complejos e interactúa con usuarios."],[false,"Un dispositivo periférico."],[false,"Un sistema que no se conecta a otros."],[false,"Una red completa."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825383327-6TS33","activityType":"selection","baseText":"","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,""]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825439803-LA788","activityType":"selection","baseText":"<p>¿Qué caracteriza a un sistema aislado?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Conexión con múltiples redes."],[true,"Funciona solo con sus recursos internos."],[false,"Distribuye tareas entre varios equipos."],[false,"Está compuesto por varios hosts."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825479212-RI2O4","activityType":"selection","baseText":"<p>¿Cuál es una ventaja de la topología en estrella?</p>","feedbackRight":"Correcto","feedbackWrong":"Se trata de que si un equipo falla, la red sigue funcionando.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Bajo costo."],[false,"Velocidad de conexión limitada."],[true,"Si un equipo falla, la red sigue funcionando."],[false,"Uso de concentradores obsoletos."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825542963-G16ZM","activityType":"selection","baseText":"<p>¿Qué dispositivo reemplazó a los hubs en redes modernas?</p>","feedbackRight":"Correcto","feedbackWrong":"Se trata de Switches.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Routers."],[false,"Módems."],[false,"Puentes."],[true,"Switches."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825634686-NODZ6","activityType":"selection","baseText":"<p>¿Cuál de las siguientes no es una característica de una red de área local (LAN)?</p>","feedbackRight":"Correcto","feedbackWrong":"Se trata de Uso exclusivo de conexiones inalámbricas.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Área geográfica limitada."],[false,"Baja tasa de error."],[true,"Uso exclusivo de conexiones inalámbricas."],[false,"Velocidad moderada o alta."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825676110-WWCPA","activityType":"selection","baseText":"<p>¿Qué modelo de red no depende de un servidor central?</p>","feedbackRight":"","feedbackWrong":"Se trata de Peer-to-peer.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Cliente-servidor."],[false,"Peer-to-peer."],[false,"Modelo jerárquico."],[false,"Redes extendidas."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825724358-8SOVP","activityType":"selection","baseText":"<p>¿Cuál de las siguientes no es una topología de red mencionada?</p>","feedbackRight":"Correcto","feedbackWrong":"Se trata de: Triangular.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Estrella."],[false,"Bus."],[false,"Anillo."],[true,"Triangular."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825760954-QM8EC","activityType":"selection","baseText":"<p>¿Qué indica la encapsulación en el modelo OSI?</p>","feedbackRight":"","feedbackWrong":"Se trata de: Añadir cabeceras a los datos.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Separar datos de la cabecera."],[true,"Añadir cabeceras a los datos."],[false,"Conectar diferentes redes."],[false,"Reducir el tamaño del paquete."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825798108-DM2YL","activityType":"selection","baseText":"<p>¿Qué protocolo de la familia TCP/IP no es confiable?</p>","feedbackRight":"","feedbackWrong":"Se trata de UDP.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"TCP."],[false,"IP."],[false,"UDP."],[false,"FTP."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777825840022-VYUX5","activityType":"selection","baseText":"<p>¿Qué caracteriza al protocolo TCP?</p>","feedbackRight":"","feedbackWrong":"Se trata de que Asegura la entrega y orden de los datos.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Transmisión rápida sin errores."],[false,"No requiere conexión."],[true,"Asegura la entrega y orden de los datos."],[false,"Especifica las direcciones IP."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-m61nolapl</odePageId>
+      <odeBlockId>block-mooivs3o-0il24wzji</odeBlockId>
+      <blockName>3. Reviso lo que aprendo</blockName>
+      <iconName>udl_rep_pasos</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-m61nolapl</odePageId>
+          <odeBlockId>block-mooivs3o-0il24wzji</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3o-26f4eef2d</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Reflexionamos un momento sobre todo lo que hemos aprendido hasta llegar aquí y completamos nuestro <strong>diario de aprendizaje</strong>.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>7</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Prueba evaluable práctica</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Prueba evaluable práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Prueba evaluable práctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+      <odeBlockId>block-mooivs3o-zbegmq1vs</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+          <odeBlockId>block-mooivs3o-zbegmq1vs</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3o-y1inz6jq9</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_movimientoboca_largo.gif" alt="Rétor dice:" title="Rétor dice:" style="float: left;" width="125" height="125">Prueba Práctica en el Taller (sesión 8): En el aula taller vamos a aplicar nuestras&nbsp;habilidades prácticas configurando<br>una red local real. Deberás cablear correctamente los equipos, configurar direcciones IP, establecer conexiones entre<br>dispositivos y verificar la conectividad de la red. Se evaluará tanto el proceso de trabajo como el resultado final, aplicando los<br>conocimientos adquiridos durante las sesiones prácticas y el proyecto con Cisco Packet Tracer.<br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+      <odeBlockId>block-mooivs3p-j3a3ebobr</odeBlockId>
+      <blockName>2. Cableado y configuración de una red de área local</blockName>
+      <iconName>udl_exp_competenciadigital</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+          <odeBlockId>block-mooivs3p-j3a3ebobr</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-khzwyb3vt</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>·&nbsp; &nbsp; &nbsp; Disponemos de un armario de comunicaciones completo (router, switch y panel de parcheo). Debemos cablear nuestra red local y configurar cada uno de nuestros hosts en la red 192.168.1.0, además deberemos comprobar el montaje final. Cumpliendo los requisitos de diseño y tiempos especificados.</p>
+<p>· &nbsp; &nbsp; &nbsp; Trabajo grupal (2 componentes).</p>
+<div class="exe-fx exe-accordion">
+<h2>Herramientas a usar</h2>
+<p style="text-align: justify;">Rack 6u 19 “, Peine 19”, switch 19”, Tornillos rack, Destornilladores, Taladro, llave fija Nº 13, Tornillos, Cable UTP, Conectores RJ45, Grimpadoras hembra y macho.</p>
+<h2>Diseño del montaje</h2>
+<p>Se procederá a la ubicación del rack (según las indicaciones del profesor).</p>
+<p>Se anclarán dentro del rack (de arriba abajo) en este orden:&nbsp;</p>
+<p>· &nbsp; &nbsp; &nbsp; Patch panel&nbsp;</p>
+<p>· &nbsp; &nbsp; &nbsp; Switch&nbsp;</p>
+<p>· &nbsp; &nbsp; &nbsp; Se conectarán al Patch Panel 2 cables (por alumno/a) de una longitud acorde a la ubicación de los equipos host a conectar a la red. (se aprovechan los mismos cables para el montaje de canaletas y del rack).&nbsp;</p>
+<p>· &nbsp; &nbsp; &nbsp; Se dispondrán de X Patch Cord (que conectarán al patch panel y al switch) de una longitud comprendida entre 20 y 25 cm. Usando el estándar 568B.</p>
+<p>o &nbsp; Se utilizarán cableado ya existente que deberá ser probado por el alumno/a antes del montaje.</p>
+<p>Los extremos de los X cables que salen del rack deben estar grimpados con conectores RJ45 machos</p>
+<h2 style="text-align: justify;">Pasos a realizar (tiempo estimado por alumno/a: 20 minutos)</h2>
+<p>Paso a paso:</p>
+<ol>
+<li>
+<p>Localización de cableado (tipo B):</p>
+<p>El patrón, que debe llevar el cable será (tipo B):<br>Blanco-naranja, Naranja, Blanco-verde, Azul, Blanco-Azul, Verde, Blanco-marrón, Marrón</p>
+</li>
+<li>
+<p><br></p>
+<p>Test</p>
+</li>
+<li>
+<p>Conexionado cableado (switch / patch panel)</p>
+</li>
+<li>
+<p>Conexionado a los 2 hosts y configuración de las IPs oportunas para la prueba de red:</p>
+<p>IP: 192.168.1.10 (host 1) / 192.168.1.11 (host 2)</p>
+<p>Mask: 255.255.255.0</p>
+<p>Gw: 192.168.1.1</p>
+
+</li>
+</ol>
+<h2>Comprobación</h2>
+<p>Se realizará comprobación de.&nbsp;</p>
+<p>· &nbsp; &nbsp; &nbsp; Correcto grimpado de todo y cada uno de los cables de patch cord y cables RJ45.&nbsp;</p>
+<p>· &nbsp; &nbsp; &nbsp; Realización de ping desde el Host 1 hacia el Host 2. Nota: este punto requiere de verificación por parte del profesor para la correcta evaluación de la práctica.</p>
+<h2 style="text-align: justify;">Desmontaje</h2>
+<p style="text-align: justify;">Una vez realizada la comprobación por parte del profesor, se procederá al desmontaje total de la práctica y colocación de todo el material en los sitios de almacenaje indicados.</p>
+</div></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;"><span class="sr-av">Lumen dice: </span>Algunas pistas</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Aquí tienes un video completo de ejecución de la práctica:</p>
+<p style="text-align: justify;"><iframe width="560" height="314" src="https://www.youtube.com/embed/kM6IiGuEZFY" allowfullscreen="allowfullscreen"></iframe></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+      <odeBlockId>block-mooivs3p-ygglgenek</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
+          <odeBlockId>block-mooivs3p-ygglgenek</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-0xs7sdivx</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-3"><h2 style="display:none;"><span class="sr-av">Clavis dice </span>Piensa en lo que has hecho</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Antes de seguir, para un momento y <strong>reflexiona</strong> sobre lo que has hecho.</p>
+<p>Para ello es muy adecuado que intentes <strong>identificar</strong> qué <strong>pasos</strong> has tenido que poner en marcha para realizar esta actividad; cuáles eran necesarios y con qué <strong>recursos</strong> contabas para resolverla.</p>
+<p>Piensa también en cuáles han sido las <strong>dificultades</strong> que te has encontrado a la hora de dar respuesta.</p>
+<p>¡Todo esto te será muy <strong>útil</strong> cuando tengas que enfrentarte a alguna actividad parecida en tus prácticas en empresa!</p>
+<p>Entonces, estarás <strong>preparada o preparado</strong> para poder resolverla sin problemas con tu experiencia previa.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>8</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Grabamos nuestra práctica (opcional - subida de nota)</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Grabamos nuestra práctica (opcional - subida de nota)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Grabamos nuestra práctica (opcional - subida de nota)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+      <odeBlockId>block-mooivs3p-vwiw375hm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+          <odeBlockId>block-mooivs3p-vwiw375hm</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-v2k9fnkkj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_conbocadillo.gif" alt="Rétor te dice cómo presentar tu trabajo." title="Rétor te dice cómo presentar tu trabajo." width="94" height="94" style="float: left;" /></p>
+<p>Es el momento de explicar todo el trabajo realizado durante la instalación, configuración y puesta en marcha de la red de área local (LAN). Debéis describir de forma detallada todas las fases que habéis seguido, desde la planificación inicial hasta el funcionamiento final de la red.</p>
+<p><br /></p>
+<p>Es importante que expliquéis:</p>
+<ul>
+<li>Cómo habéis diseñado la red (topología elegida, dispositivos utilizados, cableado, etc.)</li>
+<li>El proceso de montaje físico (conexión de equipos, switches, routers…)</li>
+<li>La configuración realizada (direcciones IP, máscaras, puertas de enlace, servicios, etc.)</li>
+<li>Las pruebas de funcionamiento (conectividad, ping, comprobaciones)</li>
+</ul>
+<p>Recuerda que explicar las dificultades encontradas (problemas de conexión, errores de configuración, fallos en el cableado, etc.) es fundamental, ya que ayudará a otros compañeros a comprender cómo resolver situaciones similares en el futuro.</p>
+<p>Además, detallar cada paso que has seguido, cómo has tomado decisiones (por ejemplo, elección de direcciones IP o topología), qué herramientas has utilizado y qué resultados has obtenido, te permitirá afianzar los conocimientos adquiridos y comprender mejor el funcionamiento real de una red.</p>
+<p>Ten en cuenta que, en este tipo de prácticas, existen múltiples soluciones válidas, por lo que es importante justificar las decisiones tomadas durante el proceso.</p>
+<p>Por último, si tienes dudas sobre qué aspectos debes destacar o cómo enfocar tu explicación, consulta con tu profesor para mejorar la calidad de tu presentación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mooivs3p-v2k9fnkkj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/retor_adultos_conbocadillo.gif\" alt=\"Rétor te dice cómo presentar tu trabajo.\" title=\"Rétor te dice cómo presentar tu trabajo.\" width=\"94\" height=\"94\" style=\"float: left;\" /></p>\n<p>Es el momento de explicar todo el trabajo realizado durante la instalación, configuración y puesta en marcha de la red de área local (LAN). Debéis describir de forma detallada todas las fases que habéis seguido, desde la planificación inicial hasta el funcionamiento final de la red.</p>\n<p><br /></p>\n<p>Es importante que expliquéis:</p>\n<ul>\n<li>Cómo habéis diseñado la red (topología elegida, dispositivos utilizados, cableado, etc.)</li>\n<li>El proceso de montaje físico (conexión de equipos, switches, routers…)</li>\n<li>La configuración realizada (direcciones IP, máscaras, puertas de enlace, servicios, etc.)</li>\n<li>Las pruebas de funcionamiento (conectividad, ping, comprobaciones)</li>\n</ul>\n<p>Recuerda que explicar las dificultades encontradas (problemas de conexión, errores de configuración, fallos en el cableado, etc.) es fundamental, ya que ayudará a otros compañeros a comprender cómo resolver situaciones similares en el futuro.</p>\n<p>Además, detallar cada paso que has seguido, cómo has tomado decisiones (por ejemplo, elección de direcciones IP o topología), qué herramientas has utilizado y qué resultados has obtenido, te permitirá afianzar los conocimientos adquiridos y comprender mejor el funcionamiento real de una red.</p>\n<p>Ten en cuenta que, en este tipo de prácticas, existen múltiples soluciones válidas, por lo que es importante justificar las decisiones tomadas durante el proceso.</p>\n<p>Por último, si tienes dudas sobre qué aspectos debes destacar o cómo enfocar tu explicación, consulta con tu profesor para mejorar la calidad de tu presentación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+      <odeBlockId>block-mooivs3p-0pur5j6fy</odeBlockId>
+      <blockName>1. Grabamos nuestra práctica: instalación, cableado y configuración de una red de área local (LAN)</blockName>
+      <iconName>udl_exp_habla</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+          <odeBlockId>block-mooivs3p-0pur5j6fy</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-40pk561fn</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Explica todas las partes que componen la práctica pasando por todos los pasos realizados:</p>
+<ul>
+<li style="text-align: justify;">Instalación de rack.</li>
+<li style="text-align: justify;">Instalación de elementos de interconexión (router, switch, patch panel).</li>
+<li style="text-align: justify;">Despliegue de cableado.</li>
+<li style="text-align: justify;">Configuración de elementos de interconexión.</li>
+<li style="text-align: justify;">Configuración de hosts.</li>
+<li style="text-align: justify;">Comprobación.</li>
+</ul>
+<p style="text-align: justify;">Presenta el trabajo de alguna de estas formas:</p>
+<div class="exe-fx exe-tabs">
+<h2>Google G-Suite</h2>
+<p>Con esta herramienta de software libre podrás crear todo tipo de documentos.</p>
+<p>En el siguiente video puedes ver lo fácil que es iniciarse en su uso:</p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/xrPJwUR3hoA" allowfullscreen="allowfullscreen"></iframe><br></p>
+<h2>Dibujos de Google</h2>
+<p style="text-align: justify;">Utiliza en este primer recurso la herramienta <strong>Dibujos</strong>, de Google, para crear distintos esquemas que mostrarán los diagramas y códigos realizados. Esta herramienta además es <strong>colaborativa</strong>: podéis hacer los esquemas y diagramas en grupo. Aquí tienes un videotutorial muy fácil que te la explicará y te dará buenos consejos para realizar tu presentación:</p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/rMK54ejHv_Q" allowfullscreen="allowfullscreen"></iframe><br>Puedes activar los subtítulos si lo necesitas.</p>
+<h2>OBS Studio</h2>
+<p style="text-align: justify;">Puedes realizar la grabación mediante tu dispositivo móvil y completar la edición del mismo mediante OBS Studio</p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/vsMRNnDq_RQ" allowfullscreen="allowfullscreen"></iframe></p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Conclusión</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Conclusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Conclusión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+      <odeBlockId>block-mooivs3p-mxnisbx1n</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+          <odeBlockId>block-mooivs3p-mxnisbx1n</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-m8dprrns5</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_conbocadillo.gif" alt="Rétor dice:" title="Rétor dice:" style="float: left;" width="125" height="125"></p>
+<p>A lo largo de esta unidad hemos adquirido una visión global de cómo funcionan las redes de área local (LAN), comprendiendo que no se trata solo de conectar equipos, sino de diseñar, configurar y gestionar sistemas que permitan la comunicación eficiente entre dispositivos.</p>
+<p>Hemos aprendido los conceptos fundamentales de redes, entendiendo qué es un host, cómo se comunican los dispositivos y por qué son necesarios los protocolos para garantizar el intercambio de información. Además, hemos conocido las ventajas de las redes LAN, especialmente en entornos profesionales, donde compartir recursos y centralizar servicios resulta imprescindible.</p>
+<p>También hemos analizado los distintos modelos de red (cliente-servidor y P2P), comprendiendo sus diferencias, ventajas e inconvenientes, así como las topologías de red, que determinan la forma en la que se conectan los dispositivos y afectan directamente al rendimiento y la fiabilidad.</p>
+<p>Uno de los aspectos más importantes ha sido el estudio de los modelos de referencia, especialmente OSI y TCP/IP, que nos permiten entender cómo viaja la información a través de la red mediante capas. Este enfoque es clave para diagnosticar problemas y configurar correctamente los sistemas.</p>
+<p>Además, hemos trabajado con los protocolos principales, como IP, TCP y UDP, entendiendo cómo se realiza el envío de datos, la diferencia entre comunicaciones fiables y no fiables, y el papel de los routers y otros dispositivos de red.</p>
+<p>Por último, hemos profundizado en el direccionamiento IP, aprendiendo a identificar redes y hosts, utilizar máscaras de red, interpretar la notación CIDR y comprobar si los equipos pertenecen a la misma red. Este conocimiento es esencial para cualquier tarea de configuración y administración de redes.</p>
+<p>En conjunto, esta unidad nos proporciona una base sólida para el trabajo práctico con redes, permitiéndonos enfrentarnos a tareas reales como el montaje, configuración y resolución de problemas en una red local. Estos conocimientos serán fundamentales para continuar avanzando en módulos más complejos y en el ámbito profesional de la informática y las comunicaciones.</p></div><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p style="text-align: center;"><audio controls="controls" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22200%22%20viewBox%3D%220%200%20300%20200%22%3E%0A%20%20%20%20%20%20%20%20%3Crect%20width%3D%22300%22%20height%3D%22200%22%20fill%3D%22%23f8f9fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cg%20transform%3D%22translate(150%2C%20100)%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%2326DDC7%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20stroke-dasharray%3D%221%20200%22%20stroke-dashoffset%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dasharray%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%221%20200%3B%20100%20200%3B%201%20200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dashoffset%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%220%3B%20-45%3B%20-180%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fcircle%3E%0A%20%20%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20attributeType%3D%22XML%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20type%3D%22rotate%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20from%3D%220%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20to%3D%22360%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%222s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20additive%3D%22sum%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3C%2Fsvg%3E" class="mediaelement" type="audio/mpeg"><a href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22200%22%20viewBox%3D%220%200%20300%20200%22%3E%0A%20%20%20%20%20%20%20%20%3Crect%20width%3D%22300%22%20height%3D%22200%22%20fill%3D%22%23f8f9fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cg%20transform%3D%22translate(150%2C%20100)%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%2326DDC7%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20stroke-dasharray%3D%221%20200%22%20stroke-dashoffset%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dasharray%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%221%20200%3B%20100%20200%3B%201%20200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dashoffset%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%220%3B%20-45%3B%20-180%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fcircle%3E%0A%20%20%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20attributeType%3D%22XML%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20type%3D%22rotate%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20from%3D%220%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20to%3D%22360%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%222s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20additive%3D%22sum%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3C%2Fsvg%3E">audio/mpeg</a></audio></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+      <odeBlockId>block-mooivs3p-lstwtbdgc</odeBlockId>
+      <blockName>1. Valora tu aprendizaje</blockName>
+      <iconName>udl_eng_aprenderaprender</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+          <odeBlockId>block-mooivs3p-lstwtbdgc</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-a104hzouc</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Tras finalizar esta unidad, es importante que reflexiones sobre tu propio proceso de aprendizaje y valores de forma crítica los conocimientos y habilidades que has adquirido.</p>
+<p>Debes plantearte si has comprendido los conceptos fundamentales de redes, como el funcionamiento de una red local, el papel de los dispositivos y la importancia de los protocolos de comunicación. Del mismo modo, es conveniente que analices si eres capaz de diferenciar entre los distintos modelos de red y topologías, entendiendo en qué situaciones es más adecuado utilizar cada uno.</p>
+<p>También debes valorar tu nivel de comprensión sobre los modelos OSI y TCP/IP, ya que constituyen la base para entender cómo se transmite la información en una red. Pregúntate si eres capaz de identificar las funciones de cada capa y relacionarlas con situaciones reales.</p>
+<p>Otro aspecto clave es el direccionamiento IP. Reflexiona sobre si sabes:</p>
+<ul>
+<li>Interpretar direcciones IP y máscaras de red</li>
+<li>Identificar redes y hosts</li>
+<li>Determinar si dos equipos están en la misma red</li>
+</ul>
+<p>Además, analiza tu desempeño en las actividades prácticas, como el montaje, configuración y comprobación de redes. Es importante que valores si has sido capaz de:</p>
+<ul>
+<li>Seguir un proceso ordenado de trabajo</li>
+<li>Detectar y solucionar errores</li>
+<li>Utilizar correctamente las herramientas y comandos<br></li>
+</ul>
+<p>No olvides reflexionar sobre las dificultades encontradas y cómo las has resuelto, ya que esto forma parte esencial del aprendizaje. Identificar en qué aspectos necesitas mejorar te ayudará a avanzar en tu formación.</p>
+<p>Finalmente, valora tu actitud durante la unidad: tu participación, tu autonomía, tu capacidad de trabajo en equipo y tu implicación en las tareas propuestas.</p>
+<p>&nbsp;<br>🎯 Conclusión personal<br>Como cierre, redacta unas líneas donde resumas:</p>
+<ul>
+<li>Qué has aprendido</li>
+<li>Qué te ha resultado más difícil</li>
+<li>En qué necesitas mejorar</li>
+<li>Cómo crees que podrás aplicar estos conocimientos en el futuro</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+      <odeBlockId>block-mooivs3p-g0h5sr76b</odeBlockId>
+      <blockName>2. Rúbrica</blockName>
+      <iconName>udl_eng_rubrica</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+          <odeBlockId>block-mooivs3p-g0h5sr76b</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-mhrlqlt2x</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-mooivs3p-mhrlqlt2x%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local%20%28cisco%20packet%20tracer%20/%20pr%E1ctica%20red%20LAN%29.%22%2C%22Se%20han%20utilizado%20aplicaciones%20para%20representar%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20las%20distintas%20topolog%EDas%20de%20red.%22%2C%22Se%20han%20identificado%20estructuras%20alternativas.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22%20Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%2C%22Se%20han%20seleccionado%20y%20montado%20las%20canalizaciones%20y%20tubos.%22%2C%22Se%20han%20montado%20los%20armarios%20de%20comunicaciones%20y%20sus%20accesorios.%22%2C%22En%20la%20grabaci%F3n%20de%20la%20pr%E1ctica%20de%20mi%20grupo%20he%20participado%20de%20forma%20activa.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local%20%28cisco%20packet%20tracer%20/%20pr%E1ctica%20red%20LAN%29.%22%2C%22Se%20han%20utilizado%20aplicaciones%20para%20representar%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20las%20distintas%20topolog%EDas%20de%20red.%22%2C%22Se%20han%20identificado%20estructuras%20alternativas.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22%20Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%2C%22Se%20han%20seleccionado%20y%20montado%20las%20canalizaciones%20y%20tubos.%22%2C%22Se%20han%20montado%20los%20armarios%20de%20comunicaciones%20y%20sus%20accesorios.%22%2C%22En%20la%20grabaci%F3n%20de%20la%20pr%E1ctica%20de%20mi%20grupo%20he%20participado%20de%20forma%20activa.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+      <odeBlockId>block-mooivs3p-ges2sytk7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
+          <odeBlockId>block-mooivs3p-ges2sytk7</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-zxmd3tkxt</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">Y lo más importante ¿seguimos?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Tras <strong>reflexionar</strong> sobre estas preguntas y las respuestas propias junto con tus compañeros y compañeras, pensad si individualmente necesitáis algún <strong>cambio en vuestro enfoque del aprendizaje</strong> teórico y práctica, habilidades o estrategias para trabajar y cómo podéis <strong>ayudaros</strong> para un avance en equipo.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+      <odeBlockId>block-mooivs3p-v30emjm7n</odeBlockId>
+      <blockName>1. Autoría</blockName>
+      <iconName>udl_exp_tareagrupal</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+          <odeBlockId>block-mooivs3p-v30emjm7n</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-5v0lzuxpg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><img src="{{context_path}}/content/resources/IMAGEN_PROMOCIONAL.jpg" alt="Imagen del Proyecto REA Andalucía" width="600" height="300" /></h1>
+<table class="exe-table" style="height: 468px;"><caption></caption>
+<tbody>
+<tr style="height: 23px;">
+<th style="width: 366.483px; height: 23px;">Título</th>
+<td style="width: 718.317px; height: 23px;">UD2 - Introducción a las redes locales</td>
+</tr>
+<tr style="height: 282px;">
+<th style="width: 366.483px; height: 282px;">Descripción</th>
+<td style="width: 718.317px; text-align: justify; height: 282px;">
+<p>REA del módulo profesional de Redes Locales del CFGM de Sistemas Microinformáticos y Redes.</p>
+<p>Se desarrollan los distintos contenidos que se abordan en dicha unidad, combinado con la realización de cuestionarios de autoevaluación, tareas de consolidación de contenidos así como la realización de varias prácticas evaluables (teóricas y prácticas).<br /></p>
+<p>Finalmente, se propone el reto del diseño de una red local basado en Cisco Packet Tracer así como una prueba evaluable práctica a desarrollar en el aula taller en la que se configurará y cableará una red local.</p>
+</td>
+</tr>
+<tr style="height: 47px;">
+<th style="width: 366.483px; height: 47px;">Elaboradora de contenido de apoyo para el aprendizaje inclusivo</th>
+<td style="width: 718.317px; height: 47px;">José Miguel Cabezuelo Gómez</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 366.483px; height: 23px;">Elaboradora de contenido curricular</th>
+<td style="width: 718.317px; height: 23px;">José Miguel Cabezuelo Gómez</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 366.483px; height: 23px;">Coordinador de la materia</th>
+<td style="width: 718.317px; height: 23px;">José Miguel Cabezuelo Gómez</td>
+</tr>
+<tr style="height: 47px;">
+<th style="width: 366.483px; height: 47px;">Organización</th>
+<td style="width: 718.317px; height: 47px;">Consejería de Desarrollo Educativo y Formación Profesional. Junta de Andalucía.</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 366.483px; height: 23px;">Licencia</th>
+<td style="width: 718.317px; height: 23px;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: right;"><img src="{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg" alt="Logo Andalucía se mueve con Europa" title="Logo Andalucía se mueve con Europa" width="299" height="79" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mooivs3p-5v0lzuxpg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/IMAGEN_PROMOCIONAL.jpg\" alt=\"Imagen del Proyecto REA Andalucía\" width=\"600\" height=\"300\" /></h1>\n<table class=\"exe-table\" style=\"height: 468px;\"><caption></caption>\n<tbody>\n<tr style=\"height: 23px;\">\n<th style=\"width: 366.483px; height: 23px;\">Título</th>\n<td style=\"width: 718.317px; height: 23px;\">UD2 - Introducción a las redes locales</td>\n</tr>\n<tr style=\"height: 282px;\">\n<th style=\"width: 366.483px; height: 282px;\">Descripción</th>\n<td style=\"width: 718.317px; text-align: justify; height: 282px;\">\n<p>REA del módulo profesional de Redes Locales del CFGM de Sistemas Microinformáticos y Redes.</p>\n<p>Se desarrollan los distintos contenidos que se abordan en dicha unidad, combinado con la realización de cuestionarios de autoevaluación, tareas de consolidación de contenidos así como la realización de varias prácticas evaluables (teóricas y prácticas).<br /></p>\n<p>Finalmente, se propone el reto del diseño de una red local basado en Cisco Packet Tracer así como una prueba evaluable práctica a desarrollar en el aula taller en la que se configurará y cableará una red local.</p>\n</td>\n</tr>\n<tr style=\"height: 47px;\">\n<th style=\"width: 366.483px; height: 47px;\">Elaboradora de contenido de apoyo para el aprendizaje inclusivo</th>\n<td style=\"width: 718.317px; height: 47px;\">José Miguel Cabezuelo Gómez</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 366.483px; height: 23px;\">Elaboradora de contenido curricular</th>\n<td style=\"width: 718.317px; height: 23px;\">José Miguel Cabezuelo Gómez</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 366.483px; height: 23px;\">Coordinador de la materia</th>\n<td style=\"width: 718.317px; height: 23px;\">José Miguel Cabezuelo Gómez</td>\n</tr>\n<tr style=\"height: 47px;\">\n<th style=\"width: 366.483px; height: 47px;\">Organización</th>\n<td style=\"width: 718.317px; height: 47px;\">Consejería de Desarrollo Educativo y Formación Profesional. Junta de Andalucía.</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 366.483px; height: 23px;\">Licencia</th>\n<td style=\"width: 718.317px; height: 23px;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p style=\"text-align: right;\"><img src=\"{{context_path}}/content/resources/LOGO_ANDALUCIA_SE_MUEVE.jpg\" alt=\"Logo Andalucía se mueve con Europa\" title=\"Logo Andalucía se mueve con Europa\" width=\"299\" height=\"79\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+      <odeBlockId>block-mooivs3p-hmhhuxkv9</odeBlockId>
+      <blockName>2. Créditos de los recursos externos</blockName>
+      <iconName>udl_rep_galeria</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+          <odeBlockId>block-mooivs3p-hmhhuxkv9</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-avgymai1c</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="exe-fx exe-paginated" style="text-align: center;">
+<h2>Página1</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center" style="width: 1467px;"><img src="{{context_path}}/content/resources/PortadaUD2.jpg" alt="Portada REA UD2" title="Portada REA UD2" width="1467" height="825">
+<figcaption class="figcaption"><span class="author">&nbsp;Creación propia</span>. <span class="title"><em>Portada REA</em></span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2"><br></div>
+<div class="exe-col exe-col-3"><br></div>
+</div>
+<h2>Página 2</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-image position-center" style="width: 125px;"><img src="{{context_path}}/content/resources/libroREDLO.jpg" alt="Libro redes locales" title="Libro redes locales" width="125" height="156">
+<figcaption class="figcaption"><span class="author">Portada libro</span>.</figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-media position-center license-custom" style="width: 200px;"><iframe width="200" height="112" src="https://www.youtube.com/embed/A-zzq8riEjM" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/shorts/A-zzq8riEjM" target="_blank" class="title" rel="noopener" title="Tipos de Redes">Tipos de Redes</a> <span class="license"><span class="sep">(</span><span class="custom-license">Youtube</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-media position-center license-custom" style="width: 200px;" id="fig_m4ky9qeq4"><iframe width="200" height="112" src="https://www.youtube.com/embed/kM6IiGuEZFY" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=kM6IiGuEZFY" target="_blank" class="title" rel="noopener" title="">Práctica de Montaje de Redes</a> <span class="license"><span class="sep">(</span><span class="custom-license">Youtube</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+</div>
+<h2>Página 3</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure position-center" style="width: 176px;"><img src="{{context_path}}/content/resources/VirtualBox.jpg" alt="Virtual Box (open source)" title="Virtual Box (open source)" width="176" height="49">
+<figcaption class="figcaption" contenteditable="true"><span style="font-size: 10pt;" title="">&nbsp;<a href="https://www.virtualbox.org/" title="">Virtual Box (open source)</a></span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure exe-image license-CC-BY-NC-ND position-center" style="width: 126px;"><img src="{{context_path}}/content/resources/cisco.jpg" alt="Cisco Packet Tracer (education)" title="Cisco Packet Tracer (education)" width="126" height="86">
+<figcaption class="figcaption"><a href="https://www.netacad.com/es/cisco-packet-tracer" class="title" target="_blank" rel="noopener" title="Cisco Packet Tracer (education)">Cisco Packet Tracer (education)</a></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-3">
+<figure class="exe-figure exe-image license-CC-BY-SA position-center" style="width: 261px;"><img src="{{context_path}}/content/resources/27178a7c-ddd8-05a6-64a3-d654f0d24b40" data-asset-id="27178a7c-ddd8-05a6-64a3-d654f0d24b40" data-asset-loading="true" alt="Moddle centros" title="Moddle centros" width="261" height="101">
+<figcaption class="figcaption"><a href="https://educacionadistancia.juntadeandalucia.es/centros/login/index.php" class="title" target="_blank" rel="noopener" title="Moodle centros">Moodle centros</a></figcaption>
+</figure>
+</div>
+</div>
+<h2>Página 4</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1">
+<figure class="exe-figure exe-media position-center license-custom" style="width: 200px;" id="fig_6yjwf8z94"><iframe width="200" height="112" src="https://www.youtube.com/embed/B0k_SVXzDSM" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=B0k_SVXzDSM" target="_blank" class="title" rel="noopener" title="CÓMO CRIMPAR UN CONECTOR RJ45 | CONSTRUCCIÓN CABLE ETHERNET">CÓMO CRIMPAR UN CONECTOR RJ45 | CONSTRUCCIÓN CABLE ETHERNET</a> <span class="license"><span class="sep">(</span><span class="custom-license">Youtube</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+<div class="exe-col exe-col-2"><br></div>
+<div class="exe-col exe-col-3"><br></div>
+</div>
+<h2>Página 5</h2>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-2"><br></div>
+<div class="exe-col exe-col-3"><br></div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-3"><br></div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-1"><br></div>
+<div class="exe-col exe-col-2">
+<figure class="exe-figure position-center" style="width: 126px;"><img src="{{context_path}}/content/resources/kahoot.jpg" alt="Icono Kahoot" title="Icono Kahoot" width="126" height="54">
+<figcaption class="figcaption" contenteditable="true" title="Web Kahoot"><a href="https://kahoot.com/es/" title="Web Kahoot">Web Kahoot</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="exe-layout-3-cols exe-clear">
+<div class="exe-col exe-col-3"><br></div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+      <odeBlockId>block-mooivs3p-lhnzui1sb</odeBlockId>
+      <blockName>3. Historial de versiones</blockName>
+      <iconName>udl_eng_temporalizacion</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+          <odeBlockId>block-mooivs3p-lhnzui1sb</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3p-32kka1tz0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="height: 109px; width: 101.072%;" class="exe-table" border="0">
+<tbody>
+<tr style="height: 69px;">
+<td style="width: 14.3559%; height: 69px; background-color: #f4f4f4;">Elaborado por:</td>
+<td colspan="4" style="height: 69px; background-color: #f4f4f4; width: 53.294%;">
+<p style="text-align: left;">Servicio de Innovación Educativa de la Consejería de Educación de la Junta de Andalucía.</p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<th style="width: 14.3559%; height: 40px; text-align: center;"> Versión:</th>
+<td style="width: 10.7178%; height: 20px; text-align: center;">01</td>
+<td style="width: 19.2724%; height: 40px; text-align: center;"><strong>Fecha de corrección:</strong><strong><br /></strong></td>
+<td style="width: 23.3038%; height: 20px; text-align: center;">03-05-2026</td>
+<td style="width: 32.35%; text-align: center; height: 20px;">Primera versión</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mooivs3p-32kka1tz0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"height: 109px; width: 101.072%;\" class=\"exe-table\" border=\"0\">\n<tbody>\n<tr style=\"height: 69px;\">\n<td style=\"width: 14.3559%; height: 69px; background-color: #f4f4f4;\">Elaborado por:</td>\n<td colspan=\"4\" style=\"height: 69px; background-color: #f4f4f4; width: 53.294%;\">\n<p style=\"text-align: left;\">Servicio de Innovación Educativa de la Consejería de Educación de la Junta de Andalucía.</p>\n</td>\n</tr>\n<tr style=\"height: 20px;\">\n<th style=\"width: 14.3559%; height: 40px; text-align: center;\"> Versión:</th>\n<td style=\"width: 10.7178%; height: 20px; text-align: center;\">01</td>\n<td style=\"width: 19.2724%; height: 40px; text-align: center;\"><strong>Fecha de corrección:</strong><strong><br /></strong></td>\n<td style=\"width: 23.3038%; height: 20px; text-align: center;\">03-05-2026</td>\n<td style=\"width: 32.35%; text-align: center; height: 20px;\">Primera versión</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+      <odeBlockId>block-mooivs3q-zoely9kcd</odeBlockId>
+      <blockName>4. Aquí tienes el archivo fuente para editar este REA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
+          <odeBlockId>block-mooivs3q-zoely9kcd</odeBlockId>
+          <odeIdeviceId>idevice-mooivs3q-aallu4hsl</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p style="text-align: center;"><span style="font-size: 14pt;"><img src="{{context_path}}/content/resources/iconoREA.png" alt="Icono proyecto REA Andalucía en el que puede verse representados los tres colores del Diseño Universal para el Aprendizaje" title="Icono Proyecto REA" width="150" height="150"></span></p>
+<ul>
+<li><span style="font-size: 14pt;">Este REA se ha publicado bajo <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" onclick="browseURL(this); return false;" target="_blank" rel="noopener">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 14pt;">Esto significa que tienes la posibilidad de poder usarlo, descargarlo, redistribuirlo y modificarlo para adaptarlo a tus necesidades.</span><span style="font-size: 14pt;"></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 14pt;">Sigue estos pasos para usar/redistribuir/modificar este REA:</span><span style="font-size: 14pt;"></span></li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">1.</span></strong> Descarga el archivo fuente. Con esto tienes el recurso original en formato editable.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">2.</span></strong> Modifícalo </span><span style="font-size: 14pt;">usando </span><a href="http://exelearning.net/" target="_blank" title="Accede a la web de eXeLearning (abre en nueva ventana)" rel="noopener" style="font-size: 14pt;">eXeLearning</a><span style="font-size: 14pt;">.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">3.</span></strong> Si aun no lo tienes, descarga e instala&nbsp;</span><span style="font-size: 14pt;">el <a href="https://edea.juntadeandalucia.es/bancorecursos/file/6d215d5c-1983-41e3-80d1-50572b852eb9/1/guia_crea_tu_rea_proyecto_rea_andalucia.zip/Educaand_Adultos.rar" target="_blank" title="Accede a la guía Crea tu REA con estilo EducaAnd (abre en nueva ventana)" rel="noopener">estilo EducaAnd</a>.</span></p>
+<p style="padding-left: 60px;"><span style="font-size: 14pt;"><strong><span style="font-size: 24pt;">4.</span></strong>&nbsp;S</span><span style="font-size: 14pt;">i lo modificas, has de reconocer la autoría y</span><span style="font-size: 14pt;">&nbsp;publicarlo con la misma licencia (CC BY-SA-NC).</span></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
