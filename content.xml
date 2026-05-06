@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260506211624NZFBA2</value>
+    <value>20260506212721FB1U4Y</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260506211624L9FOFP</value>
+    <value>20260506212721X9ZGC9</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -442,8 +442,9 @@ Unidad didáctica 2 - Introducción a redes locales.</value>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><embed width="600" height="300" src="{{context_path}}/content/resources/UD2-Introducción a las redes locales-sesiones-tareas y evaluación.pdf" type="application/pdf"></embed></p>
+<p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829797187-27f6fcs9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/UD2-Introducción a las redes locales-sesiones-tareas y evaluación.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829797187-27f6fcs9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/UD2-Introducción a las redes locales-sesiones-tareas y evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
