@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260503235138GUNUDT</value>
+    <value>20260506211624NZFBA2</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260503235138KCLX8R</value>
+    <value>20260506211624L9FOFP</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -130,14 +130,279 @@ Unidad didáctica 2 - Introducción a redes locales.</value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777798998786-zknei4ede</odePageId>
+  <odePageId>page-1778082054361-uoxey9lxs</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Guía didáctica</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <pageName>Guía didáctica y rúbrica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Guía didáctica</value>
+      <value>Guía didáctica y rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica y rúbrica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+      <odeBlockId>block-1778082054361-r2evxrstw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+          <odeBlockId>block-1778082054361-r2evxrstw</odeBlockId>
+          <odeIdeviceId>idevice-1778082054361-br28imgxx</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_conbocadillo.gif" alt="Rétor dice:" title="Rétor dice:" style="float: left;" width="125" height="125"></p>
+<p>Esta unidad tiene como objetivo que el alumnado comprenda los conceptos básicos de las redes informáticas y su importancia en la comunicación de dispositivos dentro de un mismo entorno, como una empresa, un centro educativo o un hogar.</p>
+<p>En esta unidad se abordan aspectos fundamentales como qué es una red, los tipos de redes según su alcance, los elementos que la componen (ordenadores, switches, routers, cables), y los principales medios de transmisión. También se introducen conceptos básicos de direccionamiento IP, protocolos de comunicación y funcionamiento de Internet a nivel básico.</p>
+<p>Además, se pretende que el alumnado identifique cómo se conectan los dispositivos, comprenda el flujo de la información en la red y adquiera una primera visión práctica mediante simuladores o pequeños montajes.</p>
+<p>En conjunto, esta unidad sienta las bases necesarias para el aprendizaje posterior de configuración, administración y seguridad en redes locales.</p></div><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p style="text-align: center;"><audio controls="controls" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22200%22%20viewBox%3D%220%200%20300%20200%22%3E%0A%20%20%20%20%20%20%20%20%3Crect%20width%3D%22300%22%20height%3D%22200%22%20fill%3D%22%23f8f9fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cg%20transform%3D%22translate(150%2C%20100)%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%2326DDC7%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20stroke-dasharray%3D%221%20200%22%20stroke-dashoffset%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dasharray%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%221%20200%3B%20100%20200%3B%201%20200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dashoffset%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%220%3B%20-45%3B%20-180%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fcircle%3E%0A%20%20%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20attributeType%3D%22XML%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20type%3D%22rotate%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20from%3D%220%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20to%3D%22360%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%222s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20additive%3D%22sum%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3C%2Fsvg%3E" class="mediaelement" type="audio/mpeg"><a href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22200%22%20viewBox%3D%220%200%20300%20200%22%3E%0A%20%20%20%20%20%20%20%20%3Crect%20width%3D%22300%22%20height%3D%22200%22%20fill%3D%22%23f8f9fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cg%20transform%3D%22translate(150%2C%20100)%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%2326DDC7%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20stroke-dasharray%3D%221%20200%22%20stroke-dashoffset%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dasharray%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%221%20200%3B%20100%20200%3B%201%20200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dashoffset%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%220%3B%20-45%3B%20-180%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fcircle%3E%0A%20%20%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20attributeType%3D%22XML%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20type%3D%22rotate%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20from%3D%220%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20to%3D%22360%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%222s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20additive%3D%22sum%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3C%2Fsvg%3E">audio/mpeg</a></audio></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+          <odeBlockId>block-1778082054361-r2evxrstw</odeBlockId>
+          <odeIdeviceId>idevice-1778092417598-8kk3gbmny</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><embed width="600" height="300" src="{{context_path}}/content/resources/Tarea2.1 Comenzamos nuestro proyecto.pdf" type="application/pdf"></p>
+</div><article class="exe-udlContent-content-audio js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Audio</h2></header><p style="text-align: center;"><audio controls="controls" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22200%22%20viewBox%3D%220%200%20300%20200%22%3E%0A%20%20%20%20%20%20%20%20%3Crect%20width%3D%22300%22%20height%3D%22200%22%20fill%3D%22%23f8f9fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cg%20transform%3D%22translate(150%2C%20100)%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%2326DDC7%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20stroke-dasharray%3D%221%20200%22%20stroke-dashoffset%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dasharray%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%221%20200%3B%20100%20200%3B%201%20200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dashoffset%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%220%3B%20-45%3B%20-180%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fcircle%3E%0A%20%20%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20attributeType%3D%22XML%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20type%3D%22rotate%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20from%3D%220%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20to%3D%22360%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%222s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20additive%3D%22sum%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3C%2Fsvg%3E" class="mediaelement" type="audio/mpeg"><a href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22200%22%20viewBox%3D%220%200%20300%20200%22%3E%0A%20%20%20%20%20%20%20%20%3Crect%20width%3D%22300%22%20height%3D%22200%22%20fill%3D%22%23f8f9fa%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cg%20transform%3D%22translate(150%2C%20100)%22%3E%0A%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%2326DDC7%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20stroke-dasharray%3D%221%20200%22%20stroke-dashoffset%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dasharray%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%221%20200%3B%20100%20200%3B%201%20200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20attributeName%3D%22stroke-dashoffset%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D%220%3B%20-45%3B%20-180%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%221.5s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keyTimes%3D%220%3B0.5%3B1%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20calcMode%3D%22spline%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20keySplines%3D%220.4%200%200.2%201%3B%200.4%200%200.2%201%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fcircle%3E%0A%20%20%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20attributeType%3D%22XML%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20type%3D%22rotate%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20from%3D%220%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20to%3D%22360%200%200%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D%222s%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20repeatCount%3D%22indefinite%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20additive%3D%22sum%22%2F%3E%0A%20%20%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3C%2Fsvg%3E">audio/mpeg</a></audio></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+      <odeBlockId>block-1778082054361-2sl9j932h</odeBlockId>
+      <blockName>2. Rúbrica PRO01 Proyecto Cisco Packet Tracer</blockName>
+      <iconName>udl_eng_rubrica</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+          <odeBlockId>block-1778082054361-2sl9j932h</odeBlockId>
+          <odeIdeviceId>idevice-1778082054361-nwatatmqe</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-mooivs3p-mhrlqlt2x%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20utilizado%20aplicaciones%20para%20representar%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20utilizado%20aplicaciones%20para%20representar%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+      <odeBlockId>block-1778082054361-xo8rnbdm4</odeBlockId>
+      <blockName>3. Rúbrica PET02-Práctica evaluable teórica</blockName>
+      <iconName>udl_eng_rubrica</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+          <odeBlockId>block-1778082054361-xo8rnbdm4</odeBlockId>
+          <odeIdeviceId>idevice-1778082054361-4zc8detzu</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777844418279-3yj14wf7t%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20han%20reconocido%20las%20distintas%20topolog%EDas%20de%20red.%22%2C%22Se%20han%20identificado%20estructuras%20alternativas.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22%20Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20han%20reconocido%20las%20distintas%20topolog%EDas%20de%20red.%22%2C%22Se%20han%20identificado%20estructuras%20alternativas.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22%20Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+      <odeBlockId>block-1778082054361-76lmsziz5</odeBlockId>
+      <blockName>4. Rúbrica - PEP02-Prueba evaluable práctica (taller)</blockName>
+      <iconName>udl_eng_rubrica</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+          <odeBlockId>block-1778082054361-76lmsziz5</odeBlockId>
+          <odeIdeviceId>idevice-1778082054361-97z0p2l0i</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777844709435-8qesctzk4%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%2C%22Se%20han%20seleccionado%20y%20montado%20las%20canalizaciones%20y%20tubos.%22%2C%22Se%20han%20montado%20los%20armarios%20de%20comunicaciones%20y%20sus%20accesorios.%22%2C%22En%20la%20grabaci%F3n%20de%20la%20pr%E1ctica%20de%20mi%20grupo%20he%20participado%20de%20forma%20activa.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%2C%22Se%20han%20seleccionado%20y%20montado%20las%20canalizaciones%20y%20tubos.%22%2C%22Se%20han%20montado%20los%20armarios%20de%20comunicaciones%20y%20sus%20accesorios.%22%2C%22En%20la%20grabaci%F3n%20de%20la%20pr%E1ctica%20de%20mi%20grupo%20he%20participado%20de%20forma%20activa.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+      <odeBlockId>block-1778082054361-400yhlcj7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082054361-uoxey9lxs</odePageId>
+          <odeBlockId>block-1778082054361-400yhlcj7</odeBlockId>
+          <odeIdeviceId>idevice-1778082054361-xaxj8phn6</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">Y lo más importante ¿seguimos?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Tras <strong>reflexionar</strong> sobre estas preguntas y las respuestas propias junto con tus compañeros y compañeras, pensad si individualmente necesitáis algún <strong>cambio en vuestro enfoque del aprendizaje</strong> teórico y práctica, habilidades o estrategias para trabajar y cómo podéis <strong>ayudaros</strong> para un avance en equipo.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778094611506-yfteq3xo1</odePageId>
+  <odeParentPageId>page-1778082054361-uoxey9lxs</odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778094611506-yfteq3xo1</odePageId>
+      <odeBlockId>block-1778094611506-4bw812ydv</odeBlockId>
+      <blockName>1. Curación de recursos</blockName>
+      <iconName>udl_exp_habla</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778094611506-yfteq3xo1</odePageId>
+          <odeBlockId>block-1778094611506-4bw812ydv</odeBlockId>
+          <odeIdeviceId>idevice-1778094611506-seb327tsg</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Recursos seleccionados:</p>
+<ul>
+<li>Libro de Redes Locales (Alfredo Abad Domingo , ed MacGraw-Hill)</li>
+<li>Cisco Packet Tracer</li>
+<li>Kahoot</li>
+<li>Moodle</li>
+<li>Datos personales y derechos digitales.</li>
+</ul>
+<div class="exe-fx exe-tabs">
+<h2>Libro Redes Locales</h2>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/libroREDLO.jpg" title="Redes Locales" width="207" height="257" alt="Redes Locales" style="display: block; margin-left: auto; margin-right: auto;"><a href="https://juanantonioleonlopez.wordpress.com/wp-content/uploads/2017/11/redes-locales.pdf" title="Redes Locales">Redes Locales</a></p>
+<h2>Cisco Packet Tracer</h2>
+<p><strong>Cisco Packet Tracer</strong> es una herramienta de simulación de redes desarrollada por Cisco que permite diseñar, configurar y analizar redes informáticas de forma virtual, sin necesidad de disponer de hardware físico.</p>
+<p><strong>¿Para qué sirve?</strong></p>
+<p>Se utiliza principalmente en el aprendizaje y práctica de conceptos de redes, especialmente en el ámbito educativo (como los cursos de Cisco Networking Academy). Permite:</p>
+<ul>
+<li>Crear topologías de red (LAN, WAN, IoT, etc.).</li>
+<li>Configurar dispositivos como routers, switches, PCs y servidores.</li>
+<li>Simular el tráfico de red y analizar el comportamiento de los paquetes.</li>
+<li>Detectar errores de configuración y comprender protocolos de red.</li>
+</ul>
+<p>Características principales</p>
+<ul>
+<li>Interfaz gráfica intuitiva: permite arrastrar y conectar dispositivos fácilmente.</li>
+<li>Simulación en tiempo real y modo paso a paso: ideal para observar cómo viajan los paquetes.</li>
+<li>Soporte de múltiples protocolos: como TCP/IP, HTTP, DNS, DHCP, entre otros.</li>
+<li>Modo de actividades (Activity Wizard): útil para crear prácticas y evaluaciones.</li>
+<li>Integración con IoT: permite simular dispositivos inteligentes.<br></li>
+</ul>
+<p>Ventajas</p>
+<ul>
+<li>No requiere equipamiento físico costoso.</li>
+<li>Facilita el aprendizaje práctico.</li>
+<li>Permite experimentar sin riesgo de dañar equipos reales.</li>
+</ul>
+<p><br></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/cisco.jpg" title="" width="126" height="86" alt="Cisco Packet Tracer"><br><a href="https://www.netacad.com/es/cisco-packet-tracer">Enlace</a><br></p>
+<h2>Kahoot</h2>
+<p><strong>Kahoot! </strong>es una plataforma digital de aprendizaje basada en el juego que permite crear, compartir y participar en cuestionarios interactivos en tiempo real.</p>
+<p><strong>¿Para qué sirve?</strong></p>
+<p>Se utiliza principalmente en entornos educativos y formativos para:</p>
+<ul>
+<li>Evaluar conocimientos de forma dinámica.</li>
+<li>Repasar contenidos de manera lúdica.</li>
+<li>Fomentar la participación activa del alumnado.</li>
+<li>Realizar encuestas o debates interactivos.</li>
+</ul>
+<p>Características principales</p>
+<ul>
+<li>Cuestionarios tipo test (kahoots) con preguntas, imágenes y vídeos.</li>
+<li>Acceso sencillo mediante un PIN desde cualquier dispositivo (móvil, tablet o PC).</li>
+<li>Sistema de puntuación en tiempo real, que genera rankings y aumenta la motivación.</li>
+<li>Retroalimentación inmediata tras cada pregunta.</li>
+<li>Opciones de juego individual o en equipo.</li>
+</ul>
+<p>Ventajas</p>
+<ul>
+<li>Incrementa la motivación y el interés del alumnado.</li>
+<li>Facilita la evaluación formativa de manera rápida.</li>
+<li>Promueve el aprendizaje activo y participativo.</li>
+<li>Es fácil de usar tanto para docentes como para estudiantes.</li>
+</ul>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/kahoot.jpg" title="Kahoot" width="126" height="54" alt="Kahoot" style="display: block; margin-left: auto; margin-right: auto;"><a href="https://kahoot.com/es/" title="Kahoot">Enlace</a></p>
+<h2>Datos personales y derechos digitales</h2>
+<p><embed width="600" height="300" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/Datos personales y derechos digitales.pdf" type="application/pdf"></p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777798998786-zknei4ede</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -176,9 +441,9 @@ Unidad didáctica 2 - Introducción a redes locales.</value>
           <odeIdeviceId>idevice-1777829797187-27f6fcs9a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Tarea2.1 Comenzamos nuestro proyecto.pdf" type="application/pdf"></embed></p>
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/UD2-Introducción a las redes locales-sesiones-tareas y evaluación.pdf" type="application/pdf"></embed></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829797187-27f6fcs9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Tarea2.1 Comenzamos nuestro proyecto.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777829797187-27f6fcs9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/UD2-Introducción a las redes locales-sesiones-tareas y evaluación.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -191,7 +456,7 @@ Unidad didáctica 2 - Introducción a redes locales.</value>
   <odePageId>page-mooivs3n-qhm9v51j7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1. Introducción</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -389,7 +654,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-1777740050274-7vv19v5to</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. Redes locales –Familias de protocolos-</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -626,7 +891,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-mooivs3n-uxfpv5r4g</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Direccionamiento IP</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -959,7 +1224,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-1777805960447-gv5nki5aa</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Proyecto Cisco Packet Tracer</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1099,7 +1364,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-mooivs3n-m61nolapl</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Prueba evaluable teórica</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1227,7 +1492,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-mooivs3n-qowkmtcj7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Prueba evaluable práctica</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1355,11 +1620,31 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+  <odePageId>page-moudl7cr-xcmvpd6y5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Grabamos nuestra práctica (opcional - subida de nota)</pageName>
-  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Grabamos nuestra práctica (opcional - subida de nota)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>7. Grabamos nuestra práctica (opcional - subida de nota)</value>
@@ -1371,23 +1656,41 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+      <odePageId>page-moudl7cr-xcmvpd6y5</odePageId>
       <odeBlockId>block-mooivs3p-vwiw375hm</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+          <odePageId>page-moudl7cr-xcmvpd6y5</odePageId>
           <odeBlockId>block-mooivs3p-vwiw375hm</odeBlockId>
           <odeIdeviceId>idevice-mooivs3p-v2k9fnkkj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: justify;"><img src="{{context_path}}/content/resources/retor_adultos_conbocadillo.gif" alt="Rétor te dice cómo presentar tu trabajo." title="Rétor te dice cómo presentar tu trabajo." width="94" height="94" style="float: left;" /></p>
-<p>Es el momento de explicar todo el trabajo realizado durante la instalación, configuración y puesta en marcha de la red de área local (LAN). Debéis describir de forma detallada todas las fases que habéis seguido, desde la planificación inicial hasta el funcionamiento final de la red.</p>
-<p><br /></p>
+    <p>Es el momento de explicar todo el trabajo realizado durante la instalación, configuración y puesta en marcha de la red de área local (LAN). Debéis describir de forma detallada todas las fases que habéis seguido, desde la planificación inicial hasta el funcionamiento final de la red.</p>
 <p>Es importante que expliquéis:</p>
 <ul>
 <li>Cómo habéis diseñado la red (topología elegida, dispositivos utilizados, cableado, etc.)</li>
@@ -1400,24 +1703,56 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
 <p>Ten en cuenta que, en este tipo de prácticas, existen múltiples soluciones válidas, por lo que es importante justificar las decisiones tomadas durante el proceso.</p>
 <p>Por último, si tienes dudas sobre qué aspectos debes destacar o cómo enfocar tu explicación, consulta con tu profesor para mejorar la calidad de tu presentación.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mooivs3p-v2k9fnkkj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/retor_adultos_conbocadillo.gif\" alt=\"Rétor te dice cómo presentar tu trabajo.\" title=\"Rétor te dice cómo presentar tu trabajo.\" width=\"94\" height=\"94\" style=\"float: left;\" /></p>\n<p>Es el momento de explicar todo el trabajo realizado durante la instalación, configuración y puesta en marcha de la red de área local (LAN). Debéis describir de forma detallada todas las fases que habéis seguido, desde la planificación inicial hasta el funcionamiento final de la red.</p>\n<p><br /></p>\n<p>Es importante que expliquéis:</p>\n<ul>\n<li>Cómo habéis diseñado la red (topología elegida, dispositivos utilizados, cableado, etc.)</li>\n<li>El proceso de montaje físico (conexión de equipos, switches, routers…)</li>\n<li>La configuración realizada (direcciones IP, máscaras, puertas de enlace, servicios, etc.)</li>\n<li>Las pruebas de funcionamiento (conectividad, ping, comprobaciones)</li>\n</ul>\n<p>Recuerda que explicar las dificultades encontradas (problemas de conexión, errores de configuración, fallos en el cableado, etc.) es fundamental, ya que ayudará a otros compañeros a comprender cómo resolver situaciones similares en el futuro.</p>\n<p>Además, detallar cada paso que has seguido, cómo has tomado decisiones (por ejemplo, elección de direcciones IP o topología), qué herramientas has utilizado y qué resultados has obtenido, te permitirá afianzar los conocimientos adquiridos y comprender mejor el funcionamiento real de una red.</p>\n<p>Ten en cuenta que, en este tipo de prácticas, existen múltiples soluciones válidas, por lo que es importante justificar las decisiones tomadas durante el proceso.</p>\n<p>Por último, si tienes dudas sobre qué aspectos debes destacar o cómo enfocar tu explicación, consulta con tu profesor para mejorar la calidad de tu presentación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mooivs3p-v2k9fnkkj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es el momento de explicar todo el trabajo realizado durante la instalación, configuración y puesta en marcha de la red de área local (LAN). Debéis describir de forma detallada todas las fases que habéis seguido, desde la planificación inicial hasta el funcionamiento final de la red.</p>\n<p>Es importante que expliquéis:</p>\n<ul>\n<li>Cómo habéis diseñado la red (topología elegida, dispositivos utilizados, cableado, etc.)</li>\n<li>El proceso de montaje físico (conexión de equipos, switches, routers…)</li>\n<li>La configuración realizada (direcciones IP, máscaras, puertas de enlace, servicios, etc.)</li>\n<li>Las pruebas de funcionamiento (conectividad, ping, comprobaciones)</li>\n</ul>\n<p>Recuerda que explicar las dificultades encontradas (problemas de conexión, errores de configuración, fallos en el cableado, etc.) es fundamental, ya que ayudará a otros compañeros a comprender cómo resolver situaciones similares en el futuro.</p>\n<p>Además, detallar cada paso que has seguido, cómo has tomado decisiones (por ejemplo, elección de direcciones IP o topología), qué herramientas has utilizado y qué resultados has obtenido, te permitirá afianzar los conocimientos adquiridos y comprender mejor el funcionamiento real de una red.</p>\n<p>Ten en cuenta que, en este tipo de prácticas, existen múltiples soluciones válidas, por lo que es importante justificar las decisiones tomadas durante el proceso.</p>\n<p>Por último, si tienes dudas sobre qué aspectos debes destacar o cómo enfocar tu explicación, consulta con tu profesor para mejorar la calidad de tu presentación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+      <odePageId>page-moudl7cr-xcmvpd6y5</odePageId>
       <odeBlockId>block-mooivs3p-0pur5j6fy</odeBlockId>
       <blockName>1. Grabamos nuestra práctica: instalación, cableado y configuración de una red de área local (LAN)</blockName>
       <iconName>udl_exp_habla</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mooivs3n-ysjtir5go</odePageId>
+          <odePageId>page-moudl7cr-xcmvpd6y5</odePageId>
           <odeBlockId>block-mooivs3p-0pur5j6fy</odeBlockId>
           <odeIdeviceId>idevice-mooivs3p-40pk561fn</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1446,6 +1781,18 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1456,7 +1803,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Conclusión</pageName>
-  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureOrder>23</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1544,88 +1891,10 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
-      <odeBlockId>block-mooivs3p-g0h5sr76b</odeBlockId>
-      <blockName>2. Rúbrica PRO01 Proyecto Cisco Packet Tracer</blockName>
-      <iconName>udl_eng_rubrica</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
-          <odeBlockId>block-mooivs3p-g0h5sr76b</odeBlockId>
-          <odeIdeviceId>idevice-mooivs3p-mhrlqlt2x</odeIdeviceId>
-          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-mooivs3p-mhrlqlt2x%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20utilizado%20aplicaciones%20para%20representar%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20utilizado%20aplicaciones%20para%20representar%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>4</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value>rubric</value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
-      <odeBlockId>block-1777844418279-amq12fc2m</odeBlockId>
-      <blockName>3. Rúbrica PET02-Práctica evaluable teórica</blockName>
-      <iconName>udl_eng_rubrica</iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
-      <odePagStructureProperties>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
-          <odeBlockId>block-1777844418279-amq12fc2m</odeBlockId>
-          <odeIdeviceId>idevice-1777844418279-3yj14wf7t</odeIdeviceId>
-          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777844418279-3yj14wf7t%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20han%20reconocido%20las%20distintas%20topolog%EDas%20de%20red.%22%2C%22Se%20han%20identificado%20estructuras%20alternativas.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22%20Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20han%20reconocido%20las%20distintas%20topolog%EDas%20de%20red.%22%2C%22Se%20han%20identificado%20estructuras%20alternativas.%22%2C%22Se%20han%20reconocido%20los%20principios%20funcionales%20de%20las%20redes%20locales.%22%2C%22%20Se%20han%20identificado%20los%20distintos%20tipos%20de%20redes.%22%2C%22Se%20han%20diferenciado%20los%20medios%20de%20transmisi%F3n.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>4</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value>rubric</value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
-      <odeBlockId>block-1777844709435-7zz3o9crv</odeBlockId>
-      <blockName>4. Rúbrica - PEP02-Prueba evaluable práctica (taller)</blockName>
-      <iconName>udl_eng_rubrica</iconName>
-      <odePagStructureOrder>4</odePagStructureOrder>
-      <odePagStructureProperties>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
-          <odeBlockId>block-1777844709435-7zz3o9crv</odeBlockId>
-          <odeIdeviceId>idevice-1777844709435-8qesctzk4</odeIdeviceId>
-          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777844709435-8qesctzk4%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%2C%22Se%20han%20seleccionado%20y%20montado%20las%20canalizaciones%20y%20tubos.%22%2C%22Se%20han%20montado%20los%20armarios%20de%20comunicaciones%20y%20sus%20accesorios.%22%2C%22En%20la%20grabaci%F3n%20de%20la%20pr%E1ctica%20de%20mi%20grupo%20he%20participado%20de%20forma%20activa.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%22%2C%22categories%22%3A%5B%22Se%20ha%20reconocido%20el%20mapa%20f%EDsico%20de%20la%20red%20local.%22%2C%22Se%20han%20reconocido%20los%20detalles%20del%20cableado%20de%20la%20instalaci%F3n%20y%20su%20despliegue%20%28categor%EDa%20del%20cableado%2C%20espacios%20por%20los%20que%20discurre%2C%20soporte%20para%20las%20canalizaciones%2C%20entre%20otros%29.%22%2C%22Se%20han%20seleccionado%20y%20montado%20las%20canalizaciones%20y%20tubos.%22%2C%22Se%20han%20montado%20los%20armarios%20de%20comunicaciones%20y%20sus%20accesorios.%22%2C%22En%20la%20grabaci%F3n%20de%20la%20pr%E1ctica%20de%20mi%20grupo%20he%20participado%20de%20forma%20activa.%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Satisfactorio%22%2C%22Mejorable%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Lo%20he%20hecho%20de%20manera%20aut%F3noma.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20pero%20he%20necesitado%20ayuda.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Lo%20he%20hecho%2C%20pero%20he%20necesitado%20una%20gu%EDa%20continua.%22%7D%2C%7B%22weight%22%3A%220.25%22%2C%22text%22%3A%22No%20he%20podido%20hacerlo.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>4</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value>rubric</value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mooivs3n-w5tfol6x0</odePageId>
       <odeBlockId>block-mooivs3p-ges2sytk7</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
-      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
       </odePagStructureProperties>
       <odeComponents>
@@ -1648,7 +1917,7 @@ Identifica mediante 2 imágenes 2 tipos de redes locales y señala su topología
   <odePageId>page-mooivs3n-ej3l4ltjg</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
-  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
