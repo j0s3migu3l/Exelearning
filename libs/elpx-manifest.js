@@ -230,8 +230,6 @@ window.__ELPX_MANIFEST__={
     "content/resources/45c61cb0-c86d-e32c-9cb5-b0e8f8259e91.pdf",
     "content/resources/Kahoot_cuestionarios.jpg",
     "content/resources/d843912c-daf0-0125-c8f1-a69ebb4399b4.jpg",
-    "content/resources/MCGraw Hill - Redes-Locales.pdf",
-    "content/resources/3016eb25-9c53-3b21-7d04-f6e53028892c.pdf",
     "content/resources/UD2-Introducción a las redes locales-sesiones-tareas y evaluación.pdf",
     "content/resources/c71f622c-ac39-8f89-8ebd-acee3765964b.pdf",
     "content/resources/Datos personales y derechos digitales.pdf",
